@@ -1,6 +1,6 @@
 [English](../en/README.md) · [Русский](../ru/README.md) · [中文](../zh/README.md)
 
-> Translation progress: the introduction and recommendations 1–20 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the introduction’s historical Chinese pricing examples have not yet been adapted. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction and recommendations 1–24 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the salt-price example in the introduction still awaits adaptation. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -125,7 +125,7 @@ An evidence grade addresses whether a figure is credible, not whether an action 
 
 Of 498 entries, 88 (18%) have very high benefit relative to cost, 248 (50%) high and 162 (33%) moderate. The broad middle category is deliberate: benefit magnitude itself has only three levels, so finer divisions would imply false precision.
 
-**This category is the author’s judgment, not evidence.** It is effectively grade C and independent of the recommendation’s evidence grade. Grade A can have moderate benefit relative to cost: a phase III randomized trial found 97.2% efficacy for a shingles vaccine, but two doses cost 3,000–4,000 yuan and shingles is rarely fatal. Grade C can have very high benefit relative to cost, such as sending your itinerary to family before going abroad. “Moderate” does not mean “do not do it”: all included actions are recommended, but in this category you need to weigh the expense yourself.
+**This category is the author’s judgment, not evidence.** It is effectively grade C and independent of the recommendation’s evidence grade. Grade A can have moderate benefit relative to cost: a phase III randomized trial found 97.2% efficacy for a shingles vaccine, but a self-paid course can cost about 485 USD in the US example or 550 EUR for the vaccine alone in the German example, while shingles is rarely fatal ([prices and conditions](cost_examples.md)). Grade C can have very high benefit relative to cost, such as sending your itinerary to family before going abroad. “Moderate” does not mean “do not do it”: all included actions are recommended, but in this category you need to weigh the expense yourself.
 
 <a id="读懂数字术语表"></a>
 
@@ -139,11 +139,11 @@ The text uses plain language where possible, but research citations require some
 | Term | Meaning |
 | --- | --- |
 | All-cause mortality | The proportion of people who die from any cause over a period, regardless of cause. This book uses it to measure how long people live. The research term is all-cause mortality, abbreviated ACM. |
-| HR | Hazard ratio: the ratio of the rates at which two groups experience an event, such as death or illness, over the same period. HR 0.87 means 13% lower than the control group; HR 1.21 means 21% higher. |
-| RR | Relative risk: the ratio of the probabilities of an event in two groups. Read the numbers in the same way as HR. |
+| HR | Hazard ratio: compares the instantaneous event rates among people who have not yet experienced the event. HR 0.87 means a 13% lower hazard than in the comparison group; HR 1.21 means a 21% higher hazard. It is not the ratio of the probabilities over the whole follow-up period. |
+| RR | Relative risk: the ratio of the probabilities of an event in two groups over a specified period. As with HR, values below one indicate a lower measure and values above one a higher measure, but RR compares probabilities, not hazards. |
 | OR | Odds ratio: the ratio of the odds of an event in two groups. It is close to RR for rare events; with common events it can make differences appear larger. |
-| IRR | Incidence rate ratio; read the numbers in the same way as RR. |
-| RaR | Rate ratio for repeated events, such as falls; read the numbers in the same way as RR. |
+| IRR | Incidence rate ratio: compares events per unit of person-time. Values below or above one indicate a lower or higher rate, respectively, as with other ratios; a rate is not a probability. |
+| RaR | Rate ratio for events that can recur, such as falls. Values below or above one indicate a lower or higher rate, respectively, as with other ratios; this is not the proportion of people who fall. |
 | Standardized mortality ratio | SMR: observed deaths in a group divided by the number expected from death rates in the general population of the same age. 5.86 means 5.86 times as many deaths. |
 | Risk difference | Subtract one group’s event probability from the other’s, giving, for example, additional cases per thousand people. A ratio expresses a multiple; a risk difference expresses the absolute difference. |
 | 95% CI | A 95% confidence interval expresses uncertainty around an estimate. Over repeated samples, 95% of intervals calculated by this procedure would contain the true value, assuming the statistical model holds. If a ratio interval includes 1, or a difference interval includes 0, chance may explain the difference; the text calls this “not statistically significant.” |
@@ -229,6 +229,6 @@ The main text is split by chapter into 30 files in [book/](../../book/). Open a 
 
 - “How to read” lists 85 entries with very high benefit relative to cost; a later section lists 88. Both figures are retained because the discrepancy is in the original.
 - The closing paragraph says 30 files, although the current contents list 31 chapters. The loading description has been clarified: the search page gets the chapter list from README and the text from book/.
-- The glossary uses simplified definitions; the confidence-interval definition has been clarified. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
+- The glossary uses simplified definitions; the definitions of confidence intervals, hazards, probabilities and event rates have been clarified. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
 - The salt example retains its contraindications and opposing evidence. It illustrates the entry format and is not an individual prescription.
-- [Recommendations 1–20 in chapter 1 — partial translation](01_avoid_dying_early.md).
+- [Recommendations 1–24 in chapter 1 — partial translation](01_avoid_dying_early.md).
