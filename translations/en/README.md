@@ -1,6 +1,6 @@
 [English](../en/README.md) · [Русский](../ru/README.md) · [中文](../zh/README.md)
 
-> Translation progress: the introduction and recommendations 1–16 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the introduction’s historical Chinese pricing examples have not yet been adapted. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction and recommendations 1–20 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the introduction’s historical Chinese pricing examples have not yet been adapted. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -231,4 +231,4 @@ The main text is split by chapter into 30 files in [book/](../../book/). Open a 
 - The closing paragraph says 30 files, although the current contents list 31 chapters. The loading description has been clarified: the search page gets the chapter list from README and the text from book/.
 - The glossary uses simplified definitions; the confidence-interval definition has been clarified. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
 - The salt example retains its contraindications and opposing evidence. It illustrates the entry format and is not an individual prescription.
-- [Recommendations 1–16 in chapter 1 — partial translation](01_avoid_dying_early.md).
+- [Recommendations 1–20 in chapter 1 — partial translation](01_avoid_dying_early.md).
