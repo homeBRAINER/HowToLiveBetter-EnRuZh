@@ -1,27 +1,27 @@
 {
   "1": {
     "en": "Avoid dying early",
-    "ru": "Не умирать раньше времени",
+    "ru": "Не умирай раньше времени",
     "zh": "不要早死"
   },
   "2": {
-    "en": "Avoid slowly damaging your health",
-    "ru": "Не разрушать здоровье постепенно",
+    "en": "Don’t damage your health over time",
+    "ru": "Не подрывай здоровье",
     "zh": "不要慢慢死"
   },
   "3": {
-    "en": "Stop wasting energy",
-    "ru": "Не тратить силы впустую",
+    "en": "Don’t waste energy",
+    "ru": "Не трать силы впустую",
     "zh": "不要浪费精力"
   },
   "4": {
-    "en": "Stop wasting time",
-    "ru": "Не тратить время впустую",
+    "en": "Don’t waste time",
+    "ru": "Не трать время впустую",
     "zh": "不要浪费时间"
   },
   "5": {
-    "en": "Stop wasting money",
-    "ru": "Не тратить деньги впустую",
+    "en": "Don’t waste money",
+    "ru": "Не трать деньги впустую",
     "zh": "不要浪费钱"
   },
   "6": {
@@ -36,12 +36,12 @@
   },
   "8": {
     "en": "Protect your freedom and property",
-    "ru": "Защита свободы и имущества",
+    "ru": "Береги свободу и имущество",
     "zh": "别把自己搭进去：法律与财产安全"
   },
   "9": {
-    "en": "Legal boundaries that are easy to cross",
-    "ru": "Правовые запреты, которые легко нарушить",
+    "en": "Laws you can easily break without realizing it",
+    "ru": "Законы, которые легко нарушить по незнанию",
     "zh": "普通人容易踩的法律红线"
   },
   "10": {
@@ -56,7 +56,7 @@
   },
   "12": {
     "en": "Starting and running a business",
-    "ru": "Предпринимательство и ведение бизнеса",
+    "ru": "Как начать и вести бизнес",
     "zh": "创业与做生意：别把家底赔进去"
   },
   "13": {
@@ -116,7 +116,7 @@
   },
   "24": {
     "en": "Getting medical care with less expense and hassle",
-    "ru": "Как получать медицинскую помощь с меньшими затратами",
+    "ru": "Как лечиться без лишних расходов и хлопот",
     "zh": "看病：怎么少花钱少走弯路"
   },
   "25": {
@@ -135,8 +135,8 @@
     "zh": "怀孕和生产：从发现怀孕到出院办证"
   },
   "28": {
-    "en": "Do not sacrifice your health for your appearance",
-    "ru": "Не жертвовать здоровьем ради внешности",
+    "en": "Don’t sacrifice your health for your appearance",
+    "ru": "Не жертвуй здоровьем ради внешности",
     "zh": "别为了外形把身体搞坏"
   },
   "29": {
@@ -145,13 +145,13 @@
     "zh": "遭遇重大打击之后"
   },
   "30": {
-    "en": "Children of school age",
+    "en": "School-age children",
     "ru": "Дети школьного возраста",
     "zh": "上学以后的孩子"
   },
   "31": {
-    "en": "Paths to take after turning eighteen",
-    "ru": "Какие пути открываются после восемнадцати лет",
+    "en": "Your options after turning eighteen",
+    "ru": "Какие есть варианты после восемнадцати лет",
     "zh": "十八岁之后有哪几条路"
   }
 }
