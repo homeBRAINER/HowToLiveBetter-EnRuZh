@@ -77,3 +77,16 @@ Checked on 18 September 2026. Retail examples are individual listings, not natio
 | HIV testing | Free and reduced-cost services are available; eligibility and anonymous versus confidential testing differ. [CDC guidance and service locator](https://www.cdc.gov/hiv/testing/index.html). | Berlin’s public service: counseling free, HIV test 10; free for people with little or no income. Anonymous testing is available; arrange an appointment with the relevant center. [Berlin service](https://service.berlin.de/dienstleistung/325457/). This is a Berlin example, not a rule for every European country. |
 
 An extinguisher price does not include a fire blanket, escape hoods, first-aid supplies, maintenance or training. A complete household kit price has not been verified. Choose equipment for its intended hazard and local requirements, not just the lowest price. A laboratory price does not specify which investigations you need; visible blood in urine calls for medical assessment.
+
+## Lower-sodium salt and dental care
+
+Checked on 19 September 2026. These are specific package prices, not national averages or comparisons of identical formulations. Sales tax in the US and delivery may be extra.
+
+| Item | United States, USD | Germany, EUR |
+| --- | --- | --- |
+| Potassium-containing lower-sodium salt | Morton Lite Salt, one 11 oz container: 3.17, rounded to about 3.20. [Walmart listing](https://www.walmart.com/ip/10318920). | LoSalt, 350 g: 7.75 including VAT, excluding delivery. The listed formulation contains 66.0% potassium chloride and 33.3% sodium chloride. [Hecht-Pharma](https://www.hecht-pharma.com/LoSalt). |
+| Dental floss | Oral-B Glide Pro-Health Original Unflavored, 50 m: 8.21, rounded to about 8.20, in this marketplace listing. [Walmart](https://www.walmart.com/ip/938513974). | Oral-B Essentialfloss Ungewachst, 50 m: 2.45 including VAT, excluding delivery. [dm](https://www.dm.de/p/d/3117844/oral-b-zahnseide-essentialfloss-ungewachst). |
+
+The salt prices are for whole containers, not an estimate of the extra cost over an equal amount of regular salt. These products are not identical to the 75% sodium chloride / 25% potassium chloride mixture tested in SSaSS. Check suitability with a clinician if potassium is a concern; a lower-sodium label does not remove contraindications or justify using more salt.
+
+A floss pack price is not an annual budget. Professional cleaning and replacement of missing teeth are separate expenses; an appropriate comparable quote has not been verified here. Ask the dentist what is needed and what insurance covers. For smoking cessation, the savings calculation uses the amount you actually spend on cigarettes, not an assumed national pack price; medication and counseling costs are separate.

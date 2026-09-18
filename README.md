@@ -1,6 +1,6 @@
 [English](translations/en/README.md) · [Русский](translations/ru/README.md) · [中文](translations/zh/README.md)
 
-> Translation progress: the introduction and recommendations 1–29 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the salt-price example in the introduction still awaits adaptation. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction, all 29 recommendations in chapter 1 and recommendations 1–6 in chapter 2 are available in English. The rest of chapter 2, other chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -73,9 +73,9 @@ Longevity and disease prevention, accidents and first aid, saving and managing m
 Here is what a recommendation looks like:
 
 ```markdown
-### 5. Replace your household salt with a lower-sodium salt substitute containing potassium
-- Cost: A few yuan more per packet.
-- In plain language: In a randomized trial of 20,000 people, those who replaced their household salt with a lower-sodium substitute were about 12% less likely to die over five years and 14% less likely to have a stroke. Random assignment makes this evidence more convincing than ordinary observational data.
+### 5. Replace household salt with a lower-sodium potassium-containing substitute if it is suitable for you
+- Cost: About 3.20 USD for an 11 oz container in the US example or 7.75 EUR for 350 g in Germany; these are full package prices, not the extra cost over regular salt. See the price examples linked below.
+- In plain language: In a randomized trial of 20,000 people, those who replaced their household salt with a lower-sodium substitute had a death rate about 12% lower and a stroke rate about 14% lower over roughly five years. Random assignment makes this evidence more convincing than ordinary observational data.
 - Benefit: Stroke reduced by 14%, cardiovascular events by 13% and all-cause mortality by 12%.
 - Evidence grade: A
 - Sources: Neal B, et al. (2021). NEJM. https://doi.org/10.1056/NEJMoa2105675
@@ -230,5 +230,6 @@ The main text is split by chapter into 30 files in [book/](book/). Open a chapte
 - “How to read” lists 85 entries with very high benefit relative to cost; a later section lists 88. Both figures are retained because the discrepancy is in the original.
 - The closing paragraph says 30 files, although the current contents list 31 chapters. The loading description has been clarified: the search page gets the chapter list from README and the text from book/.
 - The glossary uses simplified definitions; the definitions of confidence intervals, hazards, probabilities and event rates have been clarified. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
-- The salt example retains its contraindications and opposing evidence. It illustrates the entry format and is not an individual prescription.
+- The salt example retains its contraindications and opposing evidence. The trial compared event rates in high-risk adults; it does not establish the same absolute benefit for everyone. Its salt substitute contained 25% potassium chloride, and retail products can differ. [Local prices](translations/en/cost_examples.md) give package prices rather than a comparison with regular salt. The example is not an individual prescription; [chapter 2, recommendation 5](translations/en/02_protect_your_health.md) explains the limitations.
 - [Recommendations 1–29 in chapter 1 — complete chapter](translations/en/01_avoid_dying_early.md).
+- [Recommendations 1–6 in chapter 2 — partial translation](translations/en/02_protect_your_health.md).
