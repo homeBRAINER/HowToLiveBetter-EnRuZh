@@ -1,0 +1,157 @@
+{
+  "1": {
+    "en": "Avoid dying early",
+    "ru": "Не умирать раньше времени",
+    "zh": "不要早死"
+  },
+  "2": {
+    "en": "Avoid slowly damaging your health",
+    "ru": "Не разрушать здоровье постепенно",
+    "zh": "不要慢慢死"
+  },
+  "3": {
+    "en": "Stop wasting energy",
+    "ru": "Не тратить силы впустую",
+    "zh": "不要浪费精力"
+  },
+  "4": {
+    "en": "Stop wasting time",
+    "ru": "Не тратить время впустую",
+    "zh": "不要浪费时间"
+  },
+  "5": {
+    "en": "Stop wasting money",
+    "ru": "Не тратить деньги впустую",
+    "zh": "不要浪费钱"
+  },
+  "6": {
+    "en": "What is not worth it",
+    "ru": "От чего лучше отказаться",
+    "zh": "反面清单"
+  },
+  "7": {
+    "en": "Getting by when money runs out",
+    "ru": "Как жить, когда нет денег",
+    "zh": "没钱的时候怎么活"
+  },
+  "8": {
+    "en": "Protect your freedom and property",
+    "ru": "Защита свободы и имущества",
+    "zh": "别把自己搭进去：法律与财产安全"
+  },
+  "9": {
+    "en": "Legal boundaries that are easy to cross",
+    "ru": "Правовые запреты, которые легко нарушить",
+    "zh": "普通人容易踩的法律红线"
+  },
+  "10": {
+    "en": "Dating and marriage: costs and benefits",
+    "ru": "Отношения и брак: затраты и преимущества",
+    "zh": "恋爱和结婚划不划算"
+  },
+  "11": {
+    "en": "Legal risks for programmers and technical workers",
+    "ru": "Правовые риски для программистов и технических специалистов",
+    "zh": "程序员和技术人容易踩的红线"
+  },
+  "12": {
+    "en": "Starting and running a business",
+    "ru": "Предпринимательство и ведение бизнеса",
+    "zh": "创业与做生意：别把家底赔进去"
+  },
+  "13": {
+    "en": "Emergencies: what to do first",
+    "ru": "Экстренные ситуации: что делать в первую очередь",
+    "zh": "紧急情况：先做什么"
+  },
+  "14": {
+    "en": "Account and information security",
+    "ru": "Безопасность аккаунтов и информации",
+    "zh": "账号与信息安全"
+  },
+  "15": {
+    "en": "Renting and buying a home",
+    "ru": "Аренда и покупка жилья",
+    "zh": "租房与买房"
+  },
+  "16": {
+    "en": "Living with a chronic condition",
+    "ru": "Жизнь с хроническим заболеванием",
+    "zh": "得了慢性病之后怎么活"
+  },
+  "17": {
+    "en": "Caring for older family members",
+    "ru": "Забота о пожилых родственниках",
+    "zh": "家里有老人"
+  },
+  "18": {
+    "en": "Raising children: costs and benefits",
+    "ru": "Воспитание детей: затраты и преимущества",
+    "zh": "养孩子划不划算"
+  },
+  "19": {
+    "en": "Employment, leaving a job and workplace injuries",
+    "ru": "Работа, увольнение и производственные травмы",
+    "zh": "在职、离职和工伤"
+  },
+  "20": {
+    "en": "Caring for a newborn",
+    "ru": "Уход за новорождённым",
+    "zh": "刚出生的孩子怎么带"
+  },
+  "21": {
+    "en": "Travel and safety abroad",
+    "ru": "Поездки и безопасность за границей",
+    "zh": "出国、旅行与境外安全"
+  },
+  "22": {
+    "en": "Relaxation, entertainment and stress relief",
+    "ru": "Отдых, развлечения и снижение стресса",
+    "zh": "怎么放松：娱乐场所和减压"
+  },
+  "23": {
+    "en": "Which skills are worth learning?",
+    "ru": "Каким навыкам стоит учиться?",
+    "zh": "学什么技能划算"
+  },
+  "24": {
+    "en": "Getting medical care with less expense and hassle",
+    "ru": "Как получать медицинскую помощь с меньшими затратами",
+    "zh": "看病：怎么少花钱少走弯路"
+  },
+  "25": {
+    "en": "What to do after someone dies",
+    "ru": "Что делать после смерти близкого",
+    "zh": "人走了以后要办什么"
+  },
+  "26": {
+    "en": "Building a website or platform",
+    "ru": "Создание сайта или платформы",
+    "zh": "做一个网站或平台：资质、备案和服务器"
+  },
+  "27": {
+    "en": "Pregnancy and childbirth",
+    "ru": "Беременность и роды",
+    "zh": "怀孕和生产：从发现怀孕到出院办证"
+  },
+  "28": {
+    "en": "Do not sacrifice your health for your appearance",
+    "ru": "Не жертвовать здоровьем ради внешности",
+    "zh": "别为了外形把身体搞坏"
+  },
+  "29": {
+    "en": "After a major life setback",
+    "ru": "Как пережить тяжёлые жизненные события",
+    "zh": "遭遇重大打击之后"
+  },
+  "30": {
+    "en": "Children of school age",
+    "ru": "Дети школьного возраста",
+    "zh": "上学以后的孩子"
+  },
+  "31": {
+    "en": "Paths to take after turning eighteen",
+    "ru": "Какие пути открываются после восемнадцати лет",
+    "zh": "十八岁之后有哪几条路"
+  }
+}
