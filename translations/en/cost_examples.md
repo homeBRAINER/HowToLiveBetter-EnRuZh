@@ -112,3 +112,14 @@ Checked on 19 September 2026. These are individual venue examples, not national 
 | Preussenpark, Berlin, Germany | Badminton: 19 EUR per 60 minutes Monday–Friday, 08:00–15:00. Later bookings use 45-minute units: 18 EUR from 15:00–16:45, 21 EUR from 16:45–21:00. These figures are from the indexed venue tariff; the direct page did not return readable text during verification. Confirm your slot and equipment rental before booking. [Venue tariff](https://preussenpark-berlin.de/badminton). |
 
 Split the court fee among the people sharing it. Coaching, travel, shoes, rackets and shuttlecocks may be separate costs. The prices above do not provide a complete monthly budget.
+
+## Nuts: an annual cost example
+
+Checked on 19 September 2026. Eating 28 g a day for 365 days adds up to 10.22 kg. These figures price the amount eaten, in proportion to package weight; buying whole packages changes the checkout total slightly. They are individual product examples, not national averages or minimum prices. Both products are shelled walnuts.
+
+| Store and product | Package price | Annual calculation and conditions |
+| --- | --- | --- |
+| Walmart, United States: Great Value Walnuts Halves & Pieces, single 16 oz bag | 9.96 USD | A 16 oz bag contains about 453.592 g: 9.96 × 10,220 / 453.592 ≈ 224.41 USD, rounded to 224 USD. This is the single-bag online price, not the four-pack price. Local price and availability may vary. [Product listing](https://www.walmart.com/ip/Great-Value-Walnuts-Halves-Pieces-16-oz/124188737). |
+| dm, Germany: dmBio Walnusskerne, 150 g | 1.65 EUR | 1.65 × 10,220 / 150 = 112.42 EUR, rounded to 112 EUR. VAT is included. The listing showed the product unavailable for online delivery; store availability needs checking. [Product listing](https://www.dm.de/p/d/1468872/dmbio-walnusskerne). |
+
+Delivery and any additional US sales tax are excluded. The German example does not establish a price for the rest of Europe. Recalculate using the nuts you actually buy; the health study covered nuts generally, not these brands.
