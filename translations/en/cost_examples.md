@@ -90,3 +90,14 @@ Checked on 19 September 2026. These are specific package prices, not national av
 The salt prices are for whole containers, not an estimate of the extra cost over an equal amount of regular salt. These products are not identical to the 75% sodium chloride / 25% potassium chloride mixture tested in SSaSS. Check suitability with a clinician if potassium is a concern; a lower-sodium label does not remove contraindications or justify using more salt.
 
 A floss pack price is not an annual budget. Professional cleaning and replacement of missing teeth are separate expenses; an appropriate comparable quote has not been verified here. Ask the dentist what is needed and what insurance covers. For smoking cessation, the savings calculation uses the amount you actually spend on cigarettes, not an assumed national pack price; medication and counseling costs are separate.
+
+## Prescription medicines for blood pressure and cholesterol
+
+Checked on 19 September 2026. The examples below concern different payment arrangements; they are not a comparison of identical treatment plans.
+
+| Market | Example and limits |
+| --- | --- |
+| United States, USD | Walmart advertises selected generic prescriptions from 4 for a 30-day supply and from 10 for a 90-day supply. The program page does not establish eligibility for a particular blood-pressure medicine or statin, strength or quantity. Confirm your prescription’s price with the pharmacy. [Walmart program](https://www.walmart.com/cp/rfid/1078664). |
+| Germany, EUR | For covered prescription medicines, statutory-insurance copayment is generally 10% per pack, at least 5 and at most 10, never more than the medicine’s price. Exemptions apply; medicines priced above the reimbursement ceiling may involve additional charges. This is a copayment, not the retail price, and a pack is not necessarily one month’s supply. [Federal health portal](https://gesund.bund.de/arzneimittel-kostenuebernahme-und-zuzahlung). |
+
+Neither example includes a complete drug combination, monitoring tests or consultations. The prescription determines the medicine, strength and schedule; the figures are not a recommendation to choose or change a drug.
