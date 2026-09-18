@@ -1,6 +1,6 @@
 [English](../en/README.md) · [Русский](../ru/README.md) · [中文](../zh/README.md)
 
-> Translation progress: the introduction and recommendations 1–13 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the introduction’s historical Chinese pricing examples have not yet been adapted. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction and recommendations 1–16 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the introduction’s historical Chinese pricing examples have not yet been adapted. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 # A guide to getting more out of life at less cost
 
 Longevity and disease prevention, accidents and first aid, saving and managing money, avoiding scams and legal trouble, support during unemployment, business risks, building platforms and meeting legal requirements, relationships, marriage and children, travel abroad and skills.<br>
-498 recommendations, each explaining what you spend, what you gain and how strong the evidence is. Sources are limited to journal articles and official documents.
+498 recommendations, each explaining what you spend, what you gain and how strong the evidence is. Evidence sources are journal articles and official documents; local price examples have separate retail and clinic sources.
 
 [![Online search](https://img.shields.io/badge/Online%20search-open-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
 [![Recommendations](https://img.shields.io/badge/Recommendations-498-3451b2?style=flat-square)](#目录)
@@ -27,7 +27,7 @@ Longevity and disease prevention, accidents and first aid, saving and managing m
 
 | Question | Where to look |
 | --- | --- |
-| What can you do at almost no cost to substantially reduce the risk of dying early? | [1. Avoid dying early](../../book/01-不要早死.md) |
+| What can you do at almost no cost to substantially reduce the risk of dying early? | [1. Avoid dying early](01_avoid_dying_early.md) · [中文](../../book/01-不要早死.md) |
 | How much life do smoking, drinking, prolonged sitting and staying up late actually cost you? | [2. Don’t damage your health over time](../../book/02-不要慢慢死.md) |
 | What can you change if you run out of energy every day and keep getting interrupted? | [3. Don’t waste energy](../../book/03-不要浪费精力.md) |
 | Where does your time go, and how can you spend less of it on things that bring no benefit? | [4. Don’t waste time](../../book/04-不要浪费时间.md) |
@@ -111,7 +111,7 @@ Every recommendation has an evidence grade:
 | B | Research support that is difficult to quantify, or evidence from a small sample or a single study. |
 | C | The author’s experience or a commonly held view, without directly supporting literature. |
 
-Of the 498 recommendations, 323 are grade A, 126 grade B and 49 grade C. Another 45 entries are marked as disputed, and 39 places carry TODO markers for verification. Disputed A- and B-grade entries are labeled “Disputed” and include opposing evidence. All citations refer to primary sources: journal papers with DOI or PubMed links, or reports from official bodies such as WHO, CDC or the national statistics bureau. Secondhand accounts are not cited. Uncertain figures are marked “Needs verification.”
+Of the 498 recommendations, 323 are grade A, 126 grade B and 49 grade C. Another 45 entries are marked as disputed, and 39 places carry TODO markers for verification. Disputed A- and B-grade entries are labeled “Disputed” and include opposing evidence. Citations supporting recommendations refer to primary sources: journal papers with DOI or PubMed links, or reports from official bodies such as WHO, CDC or the national statistics bureau. Local prices have separate retail and clinic sources; secondary price sources are labeled. Uncertain figures are marked “Needs verification.”
 
 ## Benefit-to-cost categories
 
@@ -185,7 +185,7 @@ The text uses plain language where possible, but research citations require some
 
 ## Contents
 
-1. [Avoid dying early](../../book/01-不要早死.md): Deaths from external causes, gas and poisoning, vaccines, screening, mental health crises, household emergency supplies, visible blood in urine and other symptoms warranting investigation. Outcome: all-cause mortality or a specific cause of death.
+1. [Avoid dying early](01_avoid_dying_early.md) · [中文](../../book/01-不要早死.md): Deaths from external causes, gas and poisoning, vaccines, screening, mental health crises, household emergency supplies, visible blood in urine and other symptoms warranting investigation. Outcome: all-cause mortality or a specific cause of death.
 2. [Don’t damage your health over time](../../book/02-不要慢慢死.md): Smoking, alcohol, exercise, sleep, diet and prolonged sitting. Outcome: all-cause mortality or a specific cause of death.
 3. [Don’t waste energy](../../book/03-不要浪费精力.md): Sleep, interruptions, multitasking, decision fatigue and obligations to other people. Outcome: energy and time.
 4. [Don’t waste time](../../book/04-不要浪费时间.md): Unproductive projects, sunk costs, procrastination, meetings and commuting. Outcome: time.
@@ -228,7 +228,7 @@ The main text is split by chapter into 30 files in [book/](../../book/). Open a 
 ## Editorial notes
 
 - “How to read” lists 85 entries with very high benefit relative to cost; a later section lists 88. Both figures are retained because the discrepancy is in the original.
-- The closing paragraph says 30 files, although the current contents list 31 chapters. Its loading description is also historical: the current search page gets the chapter list from README and the text from book/.
+- The closing paragraph says 30 files, although the current contents list 31 chapters. The loading description has been clarified: the search page gets the chapter list from README and the text from book/.
 - The glossary uses simplified definitions; the confidence-interval definition has been clarified. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
 - The salt example retains its contraindications and opposing evidence. It illustrates the entry format and is not an individual prescription.
-- [Recommendations 1–13 in chapter 1 — partial translation](01_avoid_dying_early.md).
+- [Recommendations 1–16 in chapter 1 — partial translation](01_avoid_dying_early.md).

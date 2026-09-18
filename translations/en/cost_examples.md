@@ -21,3 +21,19 @@ Compiled on 18 September 2026. USD means US dollars; EUR means euros. Chapter pr
 Laboratory prices are self-pay examples. Insurance or public coverage can change what you pay; eligibility and referral rules depend on your plan and country. The tests are alternatives or separately priced services, not a recommendation to order every item.
 
 No universal monthly medicine price, stove-replacement price or full bathroom-refit price is given: those depend on the prescription, equipment and work required. Chinese fines in the chapter remain Chinese legal amounts; they are not US or European charges.
+
+## Vaccination examples
+
+Checked on 18 September 2026. These are self-pay examples, not estimates of what every insured patient pays. Vaccine type, dose schedule, eligibility and coverage need to be checked separately.
+
+| Expense | United States, USD per dose | Germany, EUR per dose |
+| --- | --- | --- |
+| Adult hepatitis B | 103, including administration. | Engerix-B Adult: 66.15 for the vaccine alone. |
+| Tetanus-containing vaccine | Td: 78; Tdap: 88, including administration. | Boostrix (Tdap): 37.24 for the vaccine alone. This excludes wound care and immune globulin. |
+| HPV | Nine-valent vaccine: 423, including administration. | Gardasil 9: 191.47 for the vaccine alone. |
+
+US source: [Saginaw County Health Department, fees effective 1 July 2026](https://saginawcountypublichealth.gov/programs-services/immunizations/immunization-fee-schedule/). The listed fees already include administration; do not add the separate administration line again.
+
+German source: [Vaxio price list](https://vaxio.de/preise/). Medical services are separate: basic consultation 60.32 EUR, pre-vaccination check 10.72 EUR and first injection 10.72 EUR. A follow-up visit for one vaccine in a series costs 32.16 EUR, excluding the vaccine. Additional services may cost extra.
+
+For hepatitis B, laboratory testing is an additional expense; no verified price for a complete screening panel is given here. For a wound, the vaccine price is not the full treatment bill. Do not delay urgent wound assessment while comparing prices.
