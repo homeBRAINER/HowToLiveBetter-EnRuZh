@@ -123,3 +123,36 @@ Checked on 19 September 2026. Eating 28 g a day for 365 days adds up to 10.22 kg
 | dm, Germany: dmBio Walnusskerne, 150 g | 1.65 EUR | 1.65 × 10,220 / 150 = 112.42 EUR, rounded to 112 EUR. VAT is included. The listing showed the product unavailable for online delivery; store availability needs checking. [Product listing](https://www.dm.de/p/d/1468872/dmbio-walnusskerne). |
 
 Delivery and any additional US sales tax are excluded. The German example does not establish a price for the rest of Europe. Recalculate using the nuts you actually buy; the health study covered nuts generally, not these brands.
+
+## Tea, coffee, fruit and vegetables
+
+Prices checked on 19 September 2026 using the linked store pages; entries based only on indexed search copies are identified below. These are individual products, not national averages. Check local price and availability before buying. Delivery, water, energy and any additional US sales tax are excluded. German prices include VAT and do not represent all of Europe.
+
+### Tea: a budget based on one bag a day
+
+That uses 365 bags a year. This is a budgeting assumption: the study compared drinking frequency and did not prescribe a daily dose. Figures price the amount used proportionally; buying whole boxes changes the checkout total slightly.
+
+| Example | Box price | Cost of 365 bags |
+| --- | --- | --- |
+| United States, Walmart Business: Great Value Green Tea, 40 bags | 2.78 USD | 2.78 × 365 / 40 ≈ 25.37 USD. The opened listing showed Des Moines pickup or local delivery, with shipping unavailable; other locations and cached listings showed different prices. [Product](https://business.walmart.com/ip/Great-Value-Green-Tea-Bags-2-5-oz-40-Count/20680639). |
+| Germany, dm: Lebensbaum Sencha, 20 bags | 2.45 EUR | 2.45 × 365 / 20 ≈ 44.71 EUR. Available for online delivery at the time checked. [Product](https://www.dm.de/p/d/1922101/lebensbaum-gruener-tee-sencha-20-beutel). |
+
+### Coffee: brewing at home
+
+The calculation assumes three or four cups of instant coffee at 2 g each, or 6–8 g a day. This is a cost assumption, not a medical recommendation or a standardized study cup. It does not specify the caffeine content of the finished drink.
+
+| Example | Package price | Cost of 6–8 g |
+| --- | --- | --- |
+| United States, Walmart: Great Value Classic Medium Roast Instant Coffee, 8 oz | 6.12 USD | 8 oz ≈ 226.796 g; 6.12 × (6–8) / 226.796 ≈ 0.16–0.22 USD. [Retailer listing](https://www.walmart.com/browse/food/great-value-instant-coffee/976759_1086446_1229650_8607506). |
+| Germany, dm: dmBio Kaffee Klassik löslich, 100 g | 4.45 EUR | 4.45 × (6–8) / 100 ≈ 0.27–0.36 EUR. Available for online delivery at the time checked. [Product](https://www.dm.de/p/d/1635250/dmbio-kaffee-klassik-loeslich). |
+
+### Fruit and vegetables: buying 400 g
+
+These examples price 160 g of fruit and 240 g of vegetables **as purchased**. Peels, cores, stems and spoiled parts reduce the edible amount: buying 400 g does not necessarily put 400 g on your plate. Vary the foods you eat; these two-item combinations are neither a varied daily menu nor a reconstruction of the study participants’ diets.
+
+| Example | Prices | Calculation |
+| --- | --- | --- |
+| United States, Walmart: Gala apples and whole carrots | 3.24 USD per 3 lb of apples; 2.26 USD per 2 lb of carrots | 3 lb ≈ 1,360.777 g; 2 lb ≈ 907.185 g. 160 × 3.24 / 1,360.777 + 240 × 2.26 / 907.185 ≈ 0.98 USD. Apple price from the retailer’s indexed listing, showing Sacramento and a temporary reduction from 3.78 USD; carrot price from the category page. These may reflect different locations, so the total is an illustration, not a guaranteed single-store basket. [Apples](https://business.walmart.com/ip/Fresh-Gala-Apples-3-lb-Bag/44390958?classType=REGULAR), [carrots](https://www.walmart.com/browse/food/carrots/976759_976793_8910423_8013618). |
+| Germany, ALDI Nord: organic apples and red bell peppers | 1.69 EUR per 600 g of apples; 1.19 EUR per 500 g of peppers | 160 × 1.69 / 600 + 240 × 1.19 / 500 ≈ 1.02 EUR. Promotional listings marked “from 17 September” for apples and “from 14 September” for peppers; limited availability. Prices were visible in the indexed page, but the page itself returned no readable content during the check. [Retailer’s produce offers](https://www.aldi-nord.de/sortiment/obst-gemuese/frisch.html). |
+
+The calculations allocate part of each package’s price to one day. You pay for whole packages at checkout. Use current local prices and the edible yield to estimate your own costs.

@@ -1,6 +1,6 @@
 [← Contents](README.md) · [Русский](../ru/02_protect_your_health.md) · [中文](../../book/02-不要慢慢死.md)
 
-> Partial translation: the introduction and recommendations 1–18 of 32. [Continue in Chinese](../../book/02-不要慢慢死.md). Costs use local examples in USD and EUR; [prices and conditions](cost_examples.md). Editorial clarifications are labeled separately.
+> Partial translation: the introduction and recommendations 1–22 of 32. [Continue in Chinese](../../book/02-不要慢慢死.md). Costs use local examples in USD and EUR; [prices and conditions](cost_examples.md). Editorial clarifications are labeled separately.
 
 # 2. Don’t damage your health over time
 
@@ -201,3 +201,47 @@ This chapter focuses on chronic risk factors with substantial effects on all-cau
 - Notes: The difference for two servings a week is very small; do not expect a meat substitution alone to extend your life. This recommendation helps you choose what to buy when you are already spending money on meat.
 
 > Editorial clarification: These figures describe separate associations with each food’s intake. They do not come from a trial in which people replaced red meat with fish or poultry. A nonsignificant association does not establish zero risk, and a relative 3% is not a three-percentage-point change in your personal probability of dying.
+
+### 19. Replace some white rice and refined-flour foods with whole grains
+<!-- 成本标签: 钱=少 时间=少 毅力=些 收益=大 口径=死亡率 -->
+- Cost: Brown rice, oats and whole-wheat flour may cost a little more than your usual choices. Their taste and texture can take some getting used to.
+- In plain language: In observational studies, each additional 90 g of whole-grain foods a day—about three servings—was associated with a risk of dying during follow-up about 17% lower. The association with lower risk continued at intakes around 200 g a day.
+- Benefit: A meta-analysis of observational studies found an all-cause mortality RR of 0.83 per additional 90 g a day, or about 3 servings. The dose-response curve continued downward up to 210–225 g a day. Another meta-analysis found an RR of 0.92 per additional 1 serving a day.
+- Evidence grade: A
+- Sources: Aune D et al. (2016). Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. <https://doi.org/10.1136/bmj.i2716> ; Schwingshackl L et al. (2017). Food groups and risk of all-cause mortality: a systematic review and meta-analysis of prospective studies. American Journal of Clinical Nutrition. <https://doi.org/10.3945/ajcn.117.153148>
+- Notes: These are observational data. People who eat whole grains may have healthier lifestyles overall, so the causal effect of the food itself may be smaller than the observed difference. Results varied substantially between studies: I² = 83%. You do not need to change everything at once; try replacing half your usual grain foods. The steepest part of the curve was at increases from low initial intake.
+
+> Editorial clarification: Replacing half is a practical starting point, not a dose tested in a trial; its effect depends on what and how much you currently eat. The first meta-analysis standardized grain-food servings to 30 g. Do not automatically treat these amounts as the weight of pure whole-grain ingredients or cooked porridge.
+
+### 20. Drink tea at least three times a week
+<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=中 口径=死亡率 -->
+- Cost: At one tea bag a day, two retail examples work out to about 25 USD or 45 EUR a year for the tea itself. These are calculations for specific products, not minimum budgets. [Prices and conditions](cost_examples.md).
+- In plain language: People who regularly drank tea had an all-cause mortality hazard during follow-up about 15% lower. Estimates starting at age 50 put their life expectancy 1.26 years higher and their time without atherosclerotic cardiovascular disease 1.41 years longer.
+- Benefit: The Chinese China-PAR cohort included about 100,900 people, with a median follow-up of 7.3 years. Habitual tea drinkers had an all-cause mortality HR of 0.85 (95% CI 0.79–0.90). Starting at age 50, estimated years free of atherosclerotic cardiovascular disease were 1.41 years greater, and life expectancy was 1.26 years greater.
+- Evidence grade: A
+- Sources: Wang X, Liu F, Li J, et al. (2020). Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project. European Journal of Preventive Cardiology, 27(18), 1956-1963. <https://doi.org/10.1177/2047487319894685>
+- Notes: Disputed. This was observational research. Smoking and alcohol use were common among Chinese men who drank tea; statistical adjustments addressed those differences, but residual confounding remains possible. Do not drink scalding tea; a separate recommendation in this chapter covers drink temperature.
+
+> Editorial clarification: Habitual drinking meant at least three times a week; the comparison group drank tea less often or never. The additional years are modeled estimates from cohort data, not a proven gain from taking up tea drinking.
+
+### 21. Drink coffee without sugar or sweet cream toppings; three or four cups a day will not suit everyone
+<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=大 口径=死亡率 -->
+- Cost: The home instant-coffee examples cost about 0.16–0.22 USD or 0.27–0.36 EUR a day for 6–8 g of coffee. This assumes 2 g per cup and three or four cups, solely for budgeting; it is not the study dose. Water and energy costs are excluded. [Prices and calculation](cost_examples.md).
+- In plain language: People who drank three or four cups of coffee a day had a risk of dying during follow-up about 17% lower than people who drank none. This observational association is not a reason to make yourself drink coffee for a longer life.
+- Benefit: An umbrella review that included 201 meta-analyses of observational studies found an all-cause mortality RR of 0.83 (95% CI 0.79–0.88) for 3–4 cups a day versus none, or a 17% lower risk.
+- Evidence grade: A
+- Sources: Poole R, Kennedy OJ, Roderick P, et al. (2017). Coffee consumption and health: umbrella review of meta-analyses of multiple health outcomes. BMJ, 359, j5024. <https://doi.org/10.1136/bmj.j5024>
+- Notes: Disputed: almost all the evidence was observational. Reliable randomized trials are needed to determine causation. Pregnancy, arrhythmias, anxiety or insomnia can change what is appropriate; discuss caffeine intake with your clinician. Sugar and sweet cream toppings add calories and can work against your dietary goals.
+
+> Editorial clarification: The review does not establish that sugar or cream completely cancels coffee’s association with lower mortality. The confidence interval above incorporates the journal’s [2018 correction](https://doi.org/10.1136/bmj.k194). Cup size and strength varied between studies. The [FDA](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much) says up to 400 mg of caffeine a day from all sources is generally not associated with negative effects for most adults, but sensitivity varies. That is not a target or a blanket allowance for four large mugs.
+
+### 22. Eat at least 5 servings—about 400 g—of fruit and vegetables each day
+<!-- 成本标签: 钱=少 时间=中 毅力=些 收益=中 口径=死亡率 -->
+- Cost: Examples of buying 400 g of fruit and vegetables come to about 0.98 USD or 1.02 EUR before allowing for peeling and other waste. These price specific combinations, not a varied daily menu. Allow time for washing and chopping. [Foods, prices and limitations](cost_examples.md).
+- In plain language: Each additional 200 g of fruit and vegetables a day was associated with a risk of dying during follow-up about one-tenth lower. In another study, people who ate five daily servings rather than two had a hazard about 13% lower; that study found no further reduction beyond five.
+- Benefit: A meta-analysis of observational studies found an all-cause mortality RR of 0.90 per additional 200 g a day, with the dose-response curve continuing downward up to 800 g a day. An analysis of two large US cohorts found an all-cause mortality HR of 0.87 for 5 versus 2 daily servings. The same paper also included a meta-analysis of 26 cohorts. Mortality was lowest at about 2 servings of fruit and 3 of vegetables; higher intake was not associated with a further reduction.
+- Evidence grade: A
+- Sources: Aune D et al. (2017). Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. International Journal of Epidemiology. <https://doi.org/10.1093/ije/dyw319> ; Wang DD et al. (2021). Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. <https://doi.org/10.1161/CIRCULATIONAHA.120.048996>
+- Notes: These are observational data with substantial potential for confounding: people with different vegetable intakes also differ in income, education and physical activity. RR 0.90 may overstate the causal effect. Start with five servings; there is no need to reach ten at any cost. The studies do differ on additional benefit at higher intakes: one found an association up to 800 g, while the other found a plateau around five servings.
+
+> Editorial clarification: RR 0.90 is an association estimate, not an established upper bound on the possible effect. Wang’s 26-cohort meta-analysis includes the two US cohorts; they are not additional to the 26. The 400 g target is consistent with [WHO guidance](https://www.who.int/health-topics/healthy-diet) for adults. Here, five servings means five 80 g portions of edible food; individual studies could use different serving sizes. These papers do not establish five servings as a universal ceiling on benefit.
