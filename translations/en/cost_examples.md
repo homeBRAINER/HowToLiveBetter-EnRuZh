@@ -101,3 +101,14 @@ Checked on 19 September 2026. The examples below concern different payment arran
 | Germany, EUR | For covered prescription medicines, statutory-insurance copayment is generally 10% per pack, at least 5 and at most 10, never more than the medicine’s price. Exemptions apply; medicines priced above the reimbursement ceiling may involve additional charges. This is a copayment, not the retail price, and a pack is not necessarily one month’s supply. [Federal health portal](https://gesund.bund.de/arzneimittel-kostenuebernahme-und-zuzahlung). |
 
 Neither example includes a complete drug combination, monitoring tests or consultations. The prescription determines the medicine, strength and schedule; the figures are not a recommendation to choose or change a drug.
+
+## Racket-sport court rental
+
+Checked on 19 September 2026. These are individual venue examples, not national averages. Prices are for the whole court, not each player; do not treat an hourly price as a confirmed 45-minute booking price.
+
+| Venue | Published price and conditions |
+| --- | --- |
+| SHUTTL, South San Francisco, United States | Badminton: 35 USD per hour off-peak, 50 USD at peak times, covering up to six players. The cited tariff does not establish whether equipment or any applicable tax is included. [Venue tariff](https://www.shuttlbadminton.com/courtreservation). |
+| Preussenpark, Berlin, Germany | Badminton: 19 EUR per 60 minutes Monday–Friday, 08:00–15:00. Later bookings use 45-minute units: 18 EUR from 15:00–16:45, 21 EUR from 16:45–21:00. These figures are from the indexed venue tariff; the direct page did not return readable text during verification. Confirm your slot and equipment rental before booking. [Venue tariff](https://preussenpark-berlin.de/badminton). |
+
+Split the court fee among the people sharing it. Coaching, travel, shoes, rackets and shuttlecocks may be separate costs. The prices above do not provide a complete monthly budget.
