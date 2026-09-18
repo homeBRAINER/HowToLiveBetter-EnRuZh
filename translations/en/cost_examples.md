@@ -156,3 +156,16 @@ These examples price 160 g of fruit and 240 g of vegetables **as purchased**. Pe
 | Germany, ALDI Nord: organic apples and red bell peppers | 1.69 EUR per 600 g of apples; 1.19 EUR per 500 g of peppers | 160 × 1.69 / 600 + 240 × 1.19 / 500 ≈ 1.02 EUR. Promotional listings marked “from 17 September” for apples and “from 14 September” for peppers; limited availability. Prices were visible in the indexed page, but the page itself returned no readable content during the check. [Retailer’s produce offers](https://www.aldi-nord.de/sortiment/obst-gemuese/frisch.html). |
 
 The calculations allocate part of each package’s price to one day. You pay for whole packages at checkout. Use current local prices and the edible yield to estimate your own costs.
+
+## Replacing coal or wood for cooking: appliance and running costs
+
+Sources checked on 19 September 2026. These examples cover portable cooktops, **not replacement heating systems**. They are different regional models, not an identical-product comparison or national minimum prices. The German example is one euro-area market, not a price for all of Europe.
+
+| Market and appliance | Listed price | Conditions |
+| --- | --- | --- |
+| United States, IKEA: TILLREDA single-zone induction cooktop, item 104.935.20 | 74.99 USD | 1.8 kW, 120 V. Delivery and any sales tax are additional; availability for a particular ZIP code was not verified. [Product page](https://www.ikea.com/us/en/p/tillreda-portable-induction-cooktop-1-zone-white-10493520/). |
+| Germany, IKEA: TILLREDA single-zone induction cooktop, item 805.901.55 | 39 EUR | 2 kW, 220–240 V. VAT included; delivery or collection fees may be additional. Local stock was not verified. [Product page](https://www.ikea.com/de/de/p/tillreda-induktionskochfeld-tragbar-1-zone-weiss-80590155/). |
+
+Induction requires suitable magnetic-base cookware. Check the appliance’s electrical requirements before buying; these US and German models are not interchangeable electrical specifications. Budget separately for delivery, electrical work and replacement cookware if needed. Replacing a boiler, connecting gas or changing a heating system needs a quote for the specific home; a cooktop price cannot stand in for that work.
+
+Calculate electricity costs from consumption in kWh and your own tariff. For example, **an assumed** 1 kWh a day is 365 kWh a year, costing 365 × your rate in USD/kWh or EUR/kWh. This is arithmetic, not a measured daily consumption figure or an average tariff. Nameplate power describes maximum load, not continuous consumption throughout cooking. To estimate the change in spending, subtract the cost of the fuel you stop buying. If you already use an electric or gas stove, this advice does not call for buying another one.

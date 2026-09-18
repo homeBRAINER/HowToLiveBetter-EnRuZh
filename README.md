@@ -1,6 +1,6 @@
 [English](translations/en/README.md) · [Русский](translations/ru/README.md) · [中文](translations/zh/README.md)
 
-> Translation progress: the introduction, all 29 recommendations in chapter 1 and recommendations 1–22 in chapter 2 are available in English. The rest of chapter 2, other chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction, all 29 recommendations in chapter 1 and recommendations 1–26 in chapter 2 are available in English. The rest of chapter 2, other chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -232,4 +232,4 @@ The main text is split by chapter into 30 files in [book/](book/). Open a chapte
 - The glossary uses simplified definitions; the definitions of confidence intervals, hazards, probabilities and event rates have been clarified. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
 - The salt example retains its contraindications and opposing evidence. The trial compared event rates in high-risk adults; it does not establish the same absolute benefit for everyone. Its salt substitute contained 25% potassium chloride, and retail products can differ. [Local prices](translations/en/cost_examples.md) give package prices rather than a comparison with regular salt. The example is not an individual prescription; [chapter 2, recommendation 5](translations/en/02_protect_your_health.md) explains the limitations.
 - [Recommendations 1–29 in chapter 1 — complete chapter](translations/en/01_avoid_dying_early.md).
-- [Recommendations 1–22 in chapter 2 — partial translation](translations/en/02_protect_your_health.md).
+- [Recommendations 1–26 in chapter 2 — partial translation](translations/en/02_protect_your_health.md).
