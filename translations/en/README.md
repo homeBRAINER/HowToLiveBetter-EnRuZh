@@ -1,6 +1,6 @@
 [English](../en/README.md) · [Русский](../ru/README.md) · [中文](../zh/README.md)
 
-> About this translation: the full Chinese introduction is translated below. Linked chapters and supplementary articles are still in Chinese; their translation is in progress. Prices, laws and services refer to the countries named in the original, primarily China. This is not a completed adaptation for the United States or individual European countries. The original illustration is retained, with its wording translated in the alt text. Online search links lead to the original Chinese site.
+> Translation progress: the introduction and recommendations 1–13 of chapter 1 are available in English. Other chapters and supplementary articles remain in Chinese. Chapter 1 uses local price examples in USD and EUR; the introduction’s historical Chinese pricing examples have not yet been adapted. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Longevity and disease prevention, accidents and first aid, saving and managing m
 
 - **To filter recommendations:** open the [search page](https://eternity4719.github.io/HowToLiveBetter/). Combine keywords, chapter, evidence grade and three cost dimensions: money, time and willpower. The page reads the text directly from book/, so changes to the text also change the search page.
 - **To read in order:** recommendations in each chapter run from higher to lower benefit relative to cost. Start with the first few entries in each chapter.
-- **If the numbers are unclear:** every entry has an “In plain language” line. It turns risk ratios and confidence intervals under “Benefit” into everyday wording, such as “about a fifth less likely to die over the same period” or “this many days in detention and this much in fines.” It uses only facts already in the source, without introducing new numbers. The author intends this line to be enough to make a decision; “Benefit” retains all the original figures and confidence intervals for you to check.
+- **If the numbers are unclear:** every entry has an “In plain language” line. It turns risk ratios and confidence intervals under “Benefit” into everyday wording, such as “about a fifth less likely to die over the same period” or “this many days in detention and this much in fines.” It uses the facts in the entry without introducing new numbers. Read this line to make sense of the advice; “Benefit” keeps the detailed figures and confidence intervals for you to check.
 - **For the strongest conclusions:** select evidence grade A on the search page to retain 323 entries with specific figures from meta-analyses or large trials.
 - **For the best return on your resources:** select “Very high” benefit relative to cost. This gives 85 entries requiring no money, time or willpower, with benefits in the largest category. Add a “What you gain” filter for a priority list within that type of benefit.
 - **Do not be put off by chapter titles beginning with “Don’t” or “Avoid”:** they name the outcome the chapter aims to prevent, such as early death or wasted time. They do not make every entry a prohibition. Each recommendation’s title starts with a verb and tells you what to do or avoid. Both occur in the same chapter: chapter 4 includes “Turn an intention into a plan: when, where and under what conditions you will act” and “Don’t watch television or rolling news.” Follow the entry’s title rather than applying the chapter title’s tone to every recommendation.
@@ -125,7 +125,7 @@ An evidence grade addresses whether a figure is credible, not whether an action 
 
 Of 498 entries, 88 (18%) have very high benefit relative to cost, 248 (50%) high and 162 (33%) moderate. The broad middle category is deliberate: benefit magnitude itself has only three levels, so finer divisions would imply false precision.
 
-**This category is the author’s judgment, not evidence.** It is effectively grade C and independent of the recommendation’s evidence grade. Grade A can have moderate benefit relative to cost: a phase III randomized trial found 97.2% efficacy for a shingles vaccine, but two doses cost 3,000–4,000 yuan and shingles is rarely fatal. Grade C can have very high benefit relative to cost, such as sending your itinerary to family before going abroad. “Moderate” does not mean “do not do it”: the author recommends all included actions, but asks you to weigh the expense yourself in this category.
+**This category is the author’s judgment, not evidence.** It is effectively grade C and independent of the recommendation’s evidence grade. Grade A can have moderate benefit relative to cost: a phase III randomized trial found 97.2% efficacy for a shingles vaccine, but two doses cost 3,000–4,000 yuan and shingles is rarely fatal. Grade C can have very high benefit relative to cost, such as sending your itinerary to family before going abroad. “Moderate” does not mean “do not do it”: all included actions are recommended, but in this category you need to weigh the expense yourself.
 
 <a id="读懂数字术语表"></a>
 
@@ -146,7 +146,7 @@ The text uses plain language where possible, but research citations require some
 | RaR | Rate ratio for repeated events, such as falls; read the numbers in the same way as RR. |
 | Standardized mortality ratio | SMR: observed deaths in a group divided by the number expected from death rates in the general population of the same age. 5.86 means 5.86 times as many deaths. |
 | Risk difference | Subtract one group’s event probability from the other’s, giving, for example, additional cases per thousand people. A ratio expresses a multiple; a risk difference expresses the absolute difference. |
-| 95% CI | A 95% confidence interval: described in the original’s simplified explanation as the range likely to contain the true value. If a ratio interval includes 1, or a difference interval includes 0, chance may explain the difference; the text calls this “not statistically significant.” |
+| 95% CI | A 95% confidence interval expresses uncertainty around an estimate. Over repeated samples, 95% of intervals calculated by this procedure would contain the true value, assuming the statistical model holds. If a ratio interval includes 1, or a difference interval includes 0, chance may explain the difference; the text calls this “not statistically significant.” |
 | RCT | Randomized controlled trial: people are randomly assigned to two groups, one receiving an intervention and the other not, and outcomes are compared. Best suited to establishing causation. |
 | Meta-analysis | Statistical pooling of results from several studies to obtain an overall estimate; also called a meta analysis. |
 | Cohort | A cohort study follows a group of people for years to see who experiences an event. It can establish associations, but not fully establish causation. |
@@ -157,7 +157,7 @@ The text uses plain language where possible, but research citations require some
 | r | Correlation coefficient: how closely two things vary together, from −1 to 1. 0.1 is weak, 0.3 medium and 0.5 strong. |
 | MET | A unit of exercise intensity. 1 MET is sitting quietly; brisk walking is about 3–4 MET. MET·h multiplies intensity by hours. |
 | GRADE | An international system for rating evidence quality as high, moderate, low or very low. |
-| Intention-to-screen analysis | Estimates the effect based on who was invited, rather than who actually attended screening. The original says this underestimates the effect for people who actually attend. |
+| Intention-to-screen analysis | Estimates the effect based on who was invited, rather than who actually attended screening. When some invitees do not attend, this can make the measured effect smaller than the effect among people who attend. |
 | Pack-years | Smoking exposure: packs per day multiplied by years smoked. Thirty pack-years can mean one pack daily for thirty years. |
 | BMI | Body mass index: weight in kilograms divided by height in meters squared. |
 | LDL | Low-density lipoprotein cholesterol, commonly called “bad” cholesterol. |
@@ -219,16 +219,16 @@ The text uses plain language where possible, but research citations require some
 
 Within each chapter, entries run from higher to lower benefit relative to cost. Titles such as “Avoid dying early” and “Don’t waste time” name the outcome to prevent; the entry title tells you what to do or avoid. Long-form articles cover [household emergency supplies](../../docs/家庭应急装备清单.md), [permits for platforms](../../docs/做平台要办哪些证.md), [whether marriage is worthwhile](../../docs/结婚划不划算.md) and [whether to stop when a stranger is in trouble](../../docs/遇到陌生人出事该不该停.md). Each entry’s source-checking process is documented in the [verification records](../../docs/核实记录/).
 
-The root `index.html` is the search page, filtering entries by keyword, chapter, evidence grade and costs in money, time and willpower. The original describes it as reading data directly from this file. Enable GitHub Pages in repository settings using “Deploy from a branch,” branch main and folder / to make it accessible.
+The root `index.html` is the search page, filtering entries by keyword, chapter, evidence grade and costs in money, time and willpower. It reads the chapter list from README.md and the chapter text from book/. Enable GitHub Pages in repository settings using “Deploy from a branch,” branch main and folder / to make it accessible.
 
 ## Main text
 
 The main text is split by chapter into 30 files in [book/](../../book/). Open a chapter using the contents above. The split was needed because a single file exceeded GitHub’s 512 KB Markdown rendering limit, leaving later chapters invisible. The [search page](https://eternity4719.github.io/HowToLiveBetter/) reads the files together, with no change in how you use it.
 
-## Editorial notes on the original
+## Editorial notes
 
 - “How to read” lists 85 entries with very high benefit relative to cost; a later section lists 88. Both figures are retained because the discrepancy is in the original.
 - The closing paragraph says 30 files, although the current contents list 31 chapters. Its loading description is also historical: the current search page gets the chapter list from README and the text from book/.
-- The glossary preserves the author’s simplified definitions. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
-- The salt example retains its contraindications and opposing evidence. It illustrates the original’s format and is not an individual prescription.
-- [First three recommendations in chapter 1 — partial translation](01_avoid_dying_early.md).
+- The glossary uses simplified definitions; the confidence-interval definition has been clarified. A 95% confidence interval does not assign a 95% probability to an already calculated interval; it describes coverage of the true parameter when the procedure is repeated. HR, RR and OR are different measures. Legal definitions concern China and do not replace checking the complete rule.
+- The salt example retains its contraindications and opposing evidence. It illustrates the entry format and is not an individual prescription.
+- [Recommendations 1–13 in chapter 1 — partial translation](01_avoid_dying_early.md).
