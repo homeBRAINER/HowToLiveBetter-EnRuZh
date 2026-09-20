@@ -188,3 +188,16 @@ There is no single US or European price per bath. You need the actual water volu
 As a hypothetical example, heating **100 L** of water from 10 to 40 °C requires approximately **3.49 kWh of heat** before losses. This is a calculation from water’s heat capacity, not a measured bath. A conventional electric resistance heater uses more because of losses; a heat-pump heater requires a different calculation.
 
 With water and wastewater billed per cubic meter, the variable cost is **0.1 × (water rate + wastewater rate) + actual electricity kWh × electricity rate**. Rates in USD give a result in USD; rates in EUR give EUR. If your US bill uses 1,000 US gallons, 100 L is approximately 0.0264 of that billing unit: use 0.0264 instead of 0.1 for the water terms. Apply the marginal rate if your tariff has tiers. The volume and temperature are budgeting assumptions, not bathing instructions. A tub purchase and bathroom work are excluded.
+
+<a id="earplugs"></a>
+
+## Earplugs: package prices
+
+Sources checked on 20 September 2026. These are different products from individual retailers, not national averages or an identical-product comparison. Replace or maintain earplugs according to the manufacturer’s instructions; a package price does not establish a monthly budget.
+
+| Market and product | Price and conditions |
+| --- | --- |
+| United States, Walmart: Quiet Contour foam earplugs, 10 pairs | 6.49 USD, reduced from 10.49 USD in the available listing. Sold by Apothecary Products and fulfilled by Walmart. The listing uses both Moldex and Flents branding; check the package before buying. Local availability, shipping, and any additional sales tax need checking. [Product listing](https://www.walmart.com/ip/Flents-Quiet-Contour-Foam-Ear-Plugs-20ct/17324930). |
+| Austria, dm: Ohropax Soft, 10 pieces — five pairs | 5.15 EUR including 20% VAT; delivery extra. The page showed online availability, but local store stock was not checked. This Austrian example is not a Europe-wide price. [Product listing](https://www.dm.at/p/d/3066908/ohropax-ohrstoepsel-soft). |
+
+Retail pages and indexed copies can lag behind checkout prices. These prices do not establish that either product improves memory or productivity: the office-noise study did not compare earplugs. If a quiet room is available at no charge, you need not buy anything to follow the recommendation.

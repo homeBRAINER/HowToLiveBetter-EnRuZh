@@ -1,6 +1,6 @@
 [← Contents](README.md) · [Русский](../ru/03_use_your_energy_well.md) · [中文](../../book/03-不要浪费精力.md)
 
-> Partial translation: the introduction and recommendations 1–11 of 19. [Complete Chinese chapter](../../book/03-不要浪费精力.md). Editorial clarifications are labeled separately.
+> Partial translation: the introduction and recommendations 1–14 of 19. [Complete Chinese chapter](../../book/03-不要浪费精力.md). Editorial clarifications are labeled separately.
 
 # 3. Don’t waste energy
 
@@ -122,3 +122,36 @@ This chapter deals only with energy and time: the attention you have available e
 - Notes: This was a single laboratory study of healthy young adults. If you cannot fall asleep, do not force it. The study does not establish that simply lying with your eyes closed for 10 minutes provides the same benefits as sleeping.
 
 > **Editorial clarification:** the experiment involved 24 adults after a night restricted to about five hours of sleep. Nap lengths refer to actual sleep, not the interval from lying down to an alarm. The result does not make every half-hour nap a bad choice; it shows why grogginess immediately afterward matters when you need to resume a task quickly. It also does not prove that quiet rest has no benefits. See the [study abstract](https://researchnow.flinders.edu.au/en/publications/a-brief-afternoon-nap-following-nocturnal-sleep-restriction-which/).
+
+### 12. In an open-plan office, use earplugs or find a quiet room for work that involves remembering information
+<!-- 成本标签: 钱=少 时间=少 毅力=否 收益=小 口径=时间 -->
+- Cost: Earplug examples: about 6.49 USD for 10 pairs in the United States or 5.15 EUR for five pairs in Austria. [Products, package sizes, and price limitations](cost_examples.md#earplugs). Booking a meeting room takes a little time.
+- In plain language: In a laboratory experiment, raising background noise from 39 to 51 dB meant participants remembered fewer words, felt more tired, and were less motivated to keep working. During a break, a nature film with sound helped their sense of energy recover more than continued office noise did.
+- Benefit: Students worked in a simulated open-plan office. At a background noise level of 51 dB rather than 39 dB (LAeq), they remembered fewer words, reported more fatigue, and had lower motivation. A break with a nature film and river sounds restored energy ratings more than river sounds alone or office noise did.
+- Evidence grade: B
+- Sources: Jahncke, Hygge, Halin, Green & Dimberg (2011). Open-plan office noise: Cognitive performance and restoration. Journal of Environmental Psychology. <https://doi.org/10.1016/j.jenvp.2011.07.002>
+- Notes: This was a single laboratory study. Intelligible speech can be particularly distracting; some people use white noise through headphones to mask it. However, this study did not test headphones.
+
+> **Editorial clarification:** the experiment compared office noise levels and break conditions, not the effectiveness of earplugs or white-noise headphones. It does not establish that masking speech this way improves memory or that intelligible conversation accounts for the entire noise effect. See the study above.
+
+### 13. Don’t work more than 49 hours a week
+<!-- 成本标签: 钱=少 时间=少 毅力=些 收益=大 口径=时间 -->
+- Cost: You may lose some overtime pay or need to negotiate with your manager.
+- In plain language: Records from British munitions factories during World War I suggest that up to 49 hours a week, output rose roughly in proportion to hours worked. Beyond 49 hours, each extra hour added less. Output at 70 hours was almost the same as at 56: the extra 14 hours produced almost nothing more.
+- Benefit: An analysis of British munitions workers’ output during World War I found that output was roughly proportional to weekly hours up to 49 hours. Above 49 hours, output increased at a diminishing rate, with an estimated maximum at about 63 hours. Output at 70 hours was barely different from output at 56 hours: the extra 14 hours added almost nothing.
+- Evidence grade: B
+- Sources: Pencavel (2015). The Productivity of Working Hours. The Economic Journal. <https://doi.org/10.1111/ecoj.12166>
+- Notes: These data concern physical work in factories over a century ago, with a predominantly female workforce. The threshold may differ for knowledge work. The author explicitly notes that it could be higher or lower in other occupations. The general finding—that beyond some point, extra hours add almost no output—is more dependable than the specific figure of 49.
+
+> **Editorial clarification:** 49 hours comes from a particular historical dataset. It is not a universal ideal workweek or a legal limit, and the study does not establish that working 49 hours is safe for your health. See the study above.
+
+### 14. When you keep replaying the same upsetting event, switch to a hands-on activity
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
+- Cost: No spending. Recognizing that you are ruminating takes practice.
+- In plain language: Going over the same upsetting event without moving toward a solution can deepen depressed mood and reinforce negative thoughts. It can make solving the problem and taking action harder, and support from people around you may weaken. When you notice yourself going in circles, try switching to a hands-on activity.
+- Benefit: A review found that rumination intensifies depression and negative thinking, impairs problem-solving, interferes with practical action, and erodes social support. It is also associated with anxiety, binge eating, binge drinking, and self-harm.
+- Evidence grade: B
+- Sources: Nolen-Hoeksema, Wisco & Lyubomirsky (2008). Rethinking Rumination. Perspectives on Psychological Science. <https://doi.org/10.1111/j.1745-6924.2008.00088.x>
+- Notes: This is one of the hardest energy-related recommendations to quantify: the review describes the direction of effects, not a numerical gain in energy. Switching activities is a practical suggestion. The research supports distraction over continued rumination, but does not compare which particular activity to choose.
+
+> **Editorial clarification:** thinking a problem through and looking for a solution are different from repeatedly dwelling on distress. Laboratory experiments found that distraction eased depressed mood; surveys did not show a consistent relationship between habitual distraction and depressive symptoms. The hands-on suggestion does not mean that any such activity treats depression. See the review above.
