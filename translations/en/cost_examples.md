@@ -169,3 +169,22 @@ Sources checked on 19 September 2026. These examples cover portable cooktops, **
 Induction requires suitable magnetic-base cookware. Check the appliance’s electrical requirements before buying; these US and German models are not interchangeable electrical specifications. Budget separately for delivery, electrical work and replacement cookware if needed. Replacing a boiler, connecting gas or changing a heating system needs a quote for the specific home; a cooktop price cannot stand in for that work.
 
 Calculate electricity costs from consumption in kWh and your own tariff. For example, **an assumed** 1 kWh a day is 365 kWh a year, costing 365 × your rate in USD/kWh or EUR/kWh. This is arithmetic, not a measured daily consumption figure or an average tariff. Nameplate power describes maximum load, not continuous consumption throughout cooking. To estimate the change in spending, subtract the cost of the fuel you stop buying. If you already use an electric or gas stove, this advice does not call for buying another one.
+
+## Milk: a budget example for 250–500 mL a day
+
+Sources checked on 20 September 2026. Budgeting assumes one or two 250 mL glasses, not the exact PURE serving of 244 g for milk or yogurt. These are milk examples, not prices for all dairy products or a recommendation for a particular fat content. Delivery, storage and spoiled leftovers are excluded.
+
+| Market and product | Package price | Cost of 250–500 mL |
+| --- | --- | --- |
+| United States, Walmart: Great Value Whole Vitamin D Milk, one US gallon | 3.52 USD in the indexed store page | Using 1 US gallon ≈ 3.785 L: 3.52 × (0.25–0.5) / 3.785 ≈ 0.23–0.46 USD. The indexed page identified Sacramento Gerber Rd Supercenter. The price could not be confirmed on a repeat direct fetch; local price, stock, delivery and any additional tax need checking. [Product](https://www.walmart.com/ip/10450114?selected=true). |
+| Germany, ALDI SÜD: MILSANI fresh whole milk 3.5%, 1 L | 0.95 EUR including VAT | 0.95 × (0.25–0.5) ≈ 0.24–0.48 EUR. Local stock was not checked. This is one German retail example, not a Europe-wide price. [Product](https://www.aldi-sued.de/produkt/milsani-frische-vollmilch-3-5-1-l-000000000330654001). |
+
+You buy the whole package; the calculation prices the portion consumed. Yogurt, lactose-free products and other brands may cost more or less. Treat the US figure as a preliminary budget example and check your store’s current price.
+
+## A bath: use your own utility rates
+
+There is no single US or European price per bath. You need the actual water volume, heating method and supplier rates. With a home electric water heater, account separately for water, wastewater and electricity. If supplied hot water already includes heating charges, do not count the same heating twice.
+
+As a hypothetical example, heating **100 L** of water from 10 to 40 °C requires approximately **3.49 kWh of heat** before losses. This is a calculation from water’s heat capacity, not a measured bath. A conventional electric resistance heater uses more because of losses; a heat-pump heater requires a different calculation.
+
+With water and wastewater billed per cubic meter, the variable cost is **0.1 × (water rate + wastewater rate) + actual electricity kWh × electricity rate**. Rates in USD give a result in USD; rates in EUR give EUR. If your US bill uses 1,000 US gallons, 100 L is approximately 0.0264 of that billing unit: use 0.0264 instead of 0.1 for the water terms. Apply the marginal rate if your tariff has tiers. The volume and temperature are budgeting assumptions, not bathing instructions. A tub purchase and bathroom work are excluded.
