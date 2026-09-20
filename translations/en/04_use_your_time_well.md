@@ -1,6 +1,6 @@
 [← Contents](README.md) · [Русский](../ru/04_use_your_time_well.md) · [中文](../../book/04-不要浪费时间.md)
 
-> Partial translation: the introduction and recommendations 1–4 of 13. [Complete Chinese chapter](../../book/04-不要浪费时间.md). Editorial clarifications are labeled separately.
+> Partial translation: the introduction and recommendations 1–8 of 13. [Complete Chinese chapter](../../book/04-不要浪费时间.md). Editorial clarifications are labeled separately.
 
 # 4. Don’t waste time
 
@@ -49,3 +49,47 @@ This chapter counts time alone: how many hours you can free up each day, week, o
 - Notes: Buehler’s participants were Canadian university students. This is one research paper with small samples: 37 people in the thesis study and about 40 per group in the other experiment. Flyvbjerg describes reference class forecasting—using comparable past projects—in engineering practice. Halkjelsvik’s review found underestimation more often than overestimation in engineering and management studies, but this depended on the study type and level of analysis; the size of the error varied considerably across tasks and research methods.
 
 > **Editorial clarification:** in the [Buehler study](https://www.researchgate.net/publication/232558487_Exploring_the_Planning_Fallacy_Why_People_Underestimate_Their_Task_Completion_Times), 55.5 days means the time from the survey to submission, not the entire thesis project. The averages cover 33 completers out of 37 respondents. The past-experience experiment changed predictions; actual completion times and mean absolute prediction error did not significantly improve. Thus, 60.0% versus 29.3% does not mean people worked faster. Merely recalling the past was also insufficient: the effective instruction explicitly connected it with the current task.
+
+### 5. Send an agenda beforehand and don’t hold a meeting without one; stand if the setting allows it
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
+- Cost: The organizer needs 5–10 minutes to prepare the agenda. A standing meeting requires participants’ agreement.
+- In plain language: Participants rate meetings with an agenda as more effective. In an experiment, seated meetings lasted 34% longer than standing meetings, with no significant difference in decision quality.
+- Benefit: In two surveys of 958 and 292 people, agenda use significantly predicted how effective participants considered their meetings. In an experiment comparing 55 seated groups with 56 standing groups, seated meetings lasted 34% longer. No significant difference in decision quality was detected.
+- Evidence grade: B
+- Sources: Leach, D. J., Rogelberg, S. G., Warr, P. B., & Burnfield, J. L. (2009). Perceived meeting effectiveness: The role of design characteristics. Journal of Business and Psychology, 24(1), 65–76. <https://doi.org/10.1007/s10869-009-9092-6> ; Bluedorn, A. C., Turban, D. B., & Love, M. S. (1999). The effects of stand-up and sit-down meeting formats on meeting outcomes. Journal of Applied Psychology, 84(2). <https://doi.org/10.1037/0021-9010.84.2.277>
+- Notes: The standing-meeting experiment used a laboratory task with groups of 5 people. Its findings should not be applied directly to long meetings or large groups. Leach and colleagues measured perceived effectiveness, not objective output.
+
+> **Editorial clarification:** the [experiment](https://doi.org/10.1037/0021-9010.84.2.277) found no statistically significant difference in decision quality; it did not prove that quality is always identical. The association between agendas and participants’ ratings also does not, by itself, establish causation. Choose a standing format only with everyone’s abilities and comfort in mind.
+
+### 6. Cut back on meetings: handle a question in writing when it doesn’t need a live discussion
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
+- Cost: You need agreement from coworkers and your manager. Writing a clear message takes a little more effort than saying something aloud.
+- In plain language: In a diary study, people reported more fatigue and a heavier workload on days with more meetings. Canceling a meeting frees its entire slot in your calendar. If the discussion moves to messages, though, those messages will use some of that time.
+- Benefit: Two surveys included 676 and 304 employees working at least 35 hours a week. The relationship between meeting time demands, job attitudes, and well-being depended on meeting quality and how much people’s tasks required them to work with others. A weeklong diary study linked more meetings in a day with greater fatigue and perceived workload. Canceling a meeting frees a slot equal to its duration; the net time saved depends on how long the alternative takes.
+- Evidence grade: B
+- Sources: Rogelberg, S. G., Leach, D. J., Warr, P. B., & Burnfield, J. L. (2006). "Not another meeting!" Are meeting time demands related to employee well-being? Journal of Applied Psychology, 91(1). <https://doi.org/10.1037/0021-9010.91.1.83> ; Luong, A., & Rogelberg, S. G. (2005). Meetings and more meetings: The relationship between meeting load and the daily well-being of employees. Group Dynamics: Theory, Research, and Practice, 9(1). <https://doi.org/10.1037/1089-2699.9.1.58>
+- Notes: The findings are mixed. Rogelberg and colleagues (2006) did not find that more meetings invariably meant worse well-being. More meetings were not necessarily harmful in jobs with highly interdependent tasks. These studies did not directly compare meetings with asynchronous written communication. Recommending messages that people can read and answer at different times is the author’s practical inference, not a directly tested result.
+
+> **Editorial clarification:** the [surveys](https://doi.org/10.1037/0021-9010.91.1.83) and [diary study](https://doi.org/10.1037/1089-2699.9.1.58) establish associations, not proof that canceling any meeting will reduce fatigue. Saving its entire duration describes the calendar slot freed. When replacing a meeting with messages, subtract the time spent writing, reading, and coordinating responses.
+
+### 7. Break a large task into smaller steps, then estimate the time and get started
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=时间 -->
+- Cost: Spend 5–15 minutes breaking the task down. No spending.
+- In plain language: People do not usually break a complex task into its parts when estimating how long it will take. List those parts first to reduce the risk of underestimating the work. A clear, manageable step you can start right away may also make it easier to stop putting the task off.
+- Benefit: People do not spontaneously unpack complex tasks when estimating completion times—for example, separating a paper into a literature review, a discussion section, and a reference list. Listing those parts first can reduce the planning fallacy: the tendency to underestimate how long a task will take. Turning a task into concrete actions you can start right away may also help with procrastination. Strong predictors of procrastination include finding the task unpleasant and having to wait a long time for its outcome or reward.
+- Evidence grade: B
+- Sources: Kruger, J., & Evans, M. (2004). If you don't want to be late, enumerate: Unpacking reduces the planning fallacy. Journal of Experimental Social Psychology, 40(5), 586–598. <https://doi.org/10.1016/j.jesp.2003.11.001> ; Steel, P. (2007). The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1). <https://doi.org/10.1037/0033-2909.133.1.65>
+- Notes: For Kruger and Evans, only the abstract’s qualitative conclusion has been verified here; no specific percentage improvement has been confirmed. Breaking a task down too finely also takes time. Aim for steps you can each complete in one sitting.
+
+> **Editorial clarification:** [Kruger and Evans](https://doi.org/10.1016/j.jesp.2003.11.001) studied time estimates. Their findings do not establish that breaking a task down makes the work itself faster. [Steel’s review](https://doi.org/10.1037/0033-2909.133.1.65) examines factors associated with procrastination, including delayed rewards; it is not a separate test of the task-breakdown method proposed here. Help with procrastination is therefore a possible benefit, not an established effect size for this advice.
+
+### 8. Set your own deadline when no one else has set one
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
+- Cost: No spending. Take the date seriously; otherwise, setting it changes nothing.
+- In plain language: Among students with an external deadline, 80.6% finished by that deadline, but only 38.7% finished by the date they had predicted for themselves. Actual completion times were closely related to deadlines, while the students’ forecasts were often too optimistic. If there is no external deadline, try setting a date yourself and treating it as a commitment.
+- Benefit: Among students with an external deadline, 80.6% finished by that deadline and only 38.7% by their own predicted date. Actual completion times correlated strongly with deadlines (r = 0.82). The students’ predictions were only weakly related to the deadlines.
+- Evidence grade: B
+- Sources: Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the "planning fallacy": Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366–381. <https://doi.org/10.1037/0022-3514.67.3.366>
+- Notes: The research describes the role of external deadlines. This comparison did not directly test self-imposed deadlines or ways to limit working time, such as timeboxing or the Pomodoro technique. The advice is an extrapolation. Telling someone your deadline may add an external commitment, but the effectiveness of that step was not tested here either.
+
+> **Editorial clarification:** in [Study 2](https://www.researchgate.net/publication/232558487_Exploring_the_Planning_Fallacy_Why_People_Underestimate_Their_Task_Completion_Times), both percentages refer to the same 62 students. The weak correlation, r = 0.23, was between predictions and deadlines; r = 0.82 was between actual completion and deadlines. That passage does not establish a weak relationship between predictions and actual completion for this subgroup. Correlation does not mean deadlines almost entirely determine completion dates. Nor do these results show that self-imposed deadlines work like external ones, or that a work timer is equivalent to a due date.
