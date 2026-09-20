@@ -1,6 +1,6 @@
 [← Contents](README.md) · [Русский](../ru/03_use_your_energy_well.md) · [中文](../../book/03-不要浪费精力.md)
 
-> Partial translation: the introduction and recommendations 1–4 of 19. [Complete Chinese chapter](../../book/03-不要浪费精力.md). Editorial clarifications are labeled separately.
+> Partial translation: the introduction and recommendations 1–8 of 19. [Complete Chinese chapter](../../book/03-不要浪费精力.md). Editorial clarifications are labeled separately.
 
 # 3. Don’t waste energy
 
@@ -49,3 +49,45 @@ This chapter deals only with energy and time: the attention you have available e
 - Notes: Drake’s study was a small experiment using a high single dose of 400 mg, roughly two or three coffees, although caffeine content varies widely. If you metabolize caffeine slowly, move your last dose earlier. The outcome here is sleep duration: this advice complements recommendation 3 rather than providing an independent gain that can simply be added to it.
 
 > **Editorial clarification:** Drake’s study measured sleep at home with a portable device; participants took capsules, not standardized large coffees. Twelve people completed the protocol. The 8.8-hour estimate comes from a model across studies, not a precise cutoff for every person. A seven-percentage-point drop in sleep efficiency concerns the proportion of time in bed spent asleep, not a 7% relative reduction in sleep duration. See [Drake](https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/) and [Gardiner, methods and results](https://eprints.leedsbeckett.ac.uk/id/eprint/9625/1/TheEffectOfCaffeineOnSubsequentSleepASystematicReviewAndMetaanalysisPV-WEAKLEY.pdf).
+
+### 5. Check email and messages in batches at set times each day
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
+- Cost: No spending. Let coworkers know when to expect replies; sticking to the schedule takes some effort.
+- In plain language: The same people tried two email routines over two weeks. During the week when they were asked to check email only three times a day, they reported less daily stress. The numbers of emails received and answered did not differ significantly between weeks. Before the experiment, participants reported checking email an average of 15.5 times a day.
+- Benefit: In a two-week study, 124 adults served as their own controls. Daily stress was significantly lower during the week when they were instructed to check email 3 times a day than during the unrestricted week (Cohen’s d = 0.37). There was no significant difference between weeks in the numbers of emails received or answered. At baseline, participants checked email an average of 15.5 times a day.
+- Evidence grade: B
+- Sources: Kushlev & Dunn (2015). Checking email less frequently reduces stress. Computers in Human Behavior. <https://doi.org/10.1016/j.chb.2014.11.005>
+- Notes: This is one study with a small to moderate effect. It measured stress, not work output. Instant messaging was not studied directly; extending the advice to messages is an inference.
+
+> **Editorial clarification:** three checks a day was the instruction, not the participants’ actual average. The 15.5 figure is the baseline average, not the average during the unrestricted week. A nonsignificant difference in email volume does not mean the counts were identical. See the [full study](https://interruptions.net/literature/Kushlev-ComputHumBehav15.pdf).
+
+### 6. When work needs sustained thought, protect it from even brief interruptions
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=大 口径=时间 -->
+- Cost: Close the door, use headphones you already own, or put up a “Do not disturb” sign. No purchase is necessary.
+- In plain language: In a laboratory task, interruptions averaging 2.8 seconds doubled errors in the sequence of steps; interruptions averaging 4.4 seconds tripled them. In a workplace study, people took about 25 minutes to return to interrupted work, with roughly two other work topics in between. In a separate experiment, interrupted participants worked faster but reported more stress, frustration, and effort.
+- Benefit: In laboratory experiments, interruptions averaging 2.8 seconds doubled sequence errors, while those averaging 4.4 seconds tripled them. A field study of 24 information workers found that they changed work topics about every 11 minutes and that 57% of work topics were interrupted. When interrupted work was resumed that same day, the average interval was 25 minutes 26 seconds, with 2.26 other work topics in between. In an experiment with 48 participants, interrupted people worked faster but reported more stress, frustration, time pressure, and effort.
+- Evidence grade: B
+- Sources: Altmann, Trafton & Hambrick (2014). Momentary interruptions can derail the train of thought. Journal of Experimental Psychology: General. <https://doi.org/10.1037/a0030986> ; Mark, Gonzalez & Harris (2005). No task left behind? Examining the nature of fragmented work. CHI 2005. <https://doi.org/10.1145/1054972.1055017> ; Mark, Gudith & Klocke (2008). The cost of interrupted work: More speed and stress. CHI 2008. <https://doi.org/10.1145/1357054.1357072>
+- Notes: The field study distinguished external interruptions from interruptions people initiated themselves. Closing a door only helps with the former; combine this advice with recommendations 1 and 5.
+
+> **Editorial clarification:** 25 minutes is elapsed time until a return to the work, including time spent on other work. It is not a measured period during which the brain cannot concentrate. The twofold and threefold increases concern errors in the order of steps, not every kind of error. The 48-person experiment used simulated office work; it was separate from the 24-worker field study. See the studies above.
+
+### 7. Do one thing at a time; don’t answer messages during meetings
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=时间 -->
+- Cost: Nothing, though it takes some self-discipline.
+- In plain language: Switching tasks slows responses and makes mistakes more likely. People who frequently used several media at once did not show a multitasking advantage in the cited experiment. They actually performed worse on tests of switching between tasks.
+- Benefit: A review found slower responses and more errors after task switches. In laboratory tests with college students, heavy media multitaskers were more susceptible to irrelevant stimuli and irrelevant information in memory, and performed worse on task-switching tests.
+- Evidence grade: B
+- Sources: Monsell (2003). Task switching. Trends in Cognitive Sciences. <https://doi.org/10.1016/S1364-6613(03)00028-7> ; Ophir, Nass & Wagner (2009). Cognitive control in media multitaskers. PNAS. <https://doi.org/10.1073/pnas.0903620106>
+- Notes: The percentage cost of switching depends heavily on the task, so no universal figure is given here. Ophir’s study was a cross-sectional comparison: it cannot tell us whether media multitasking weakens attention or whether people with poorer attention are more drawn to it.
+
+### 8. Put away light-emitting screens an hour before bed; read a paper book or an unlit e-ink screen instead
+<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=中 口径=时间 -->
+- Cost: No spending is necessary; use a book you already have. Changing the habit takes persistence.
+- In plain language: In a laboratory experiment, reading on a light-emitting screen before bed delayed falling asleep by about 10 minutes compared with reading a paper book. Evening melatonin was suppressed by about 55%, and the body clock measured after that condition was more than 1.5 hours later. The next morning, participants felt sleepier and took longer to become fully alert.
+- Benefit: In a laboratory crossover trial, participants took about 10 minutes longer to fall asleep after reading on a light-emitting device than after reading a paper book: 25.7 versus 15.8 minutes. Evening melatonin suppression was about 55%. Circadian timing, measured the day after each reading condition, was more than 1.5 hours later after screen reading: melatonin onset was at 22:31 versus 21:01. Participants were also sleepier the following morning and took longer to become fully alert.
+- Evidence grade: B
+- Sources: Chang, Aeschbach, Duffy & Czeisler (2015). Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS. <https://doi.org/10.1073/pnas.1418490112>
+- Notes: This was a small study under controlled laboratory conditions. Effects may be smaller with the brightness and duration of everyday phone use. The study did not measure how much a phone’s night mode might reduce these effects.
+
+> **Editorial clarification:** the 12 participants read for about four hours before bed on five consecutive evenings in each condition; the screen was an iPad at maximum brightness. The study did not test a one-hour cutoff or e-ink as an alternative. The advice about e-ink means using it without its built-in light. The reported shifts should not be treated as what necessarily happens after a single evening of ordinary screen use. See the [methods and results](https://pmc.ncbi.nlm.nih.gov/articles/PMC4313820/).

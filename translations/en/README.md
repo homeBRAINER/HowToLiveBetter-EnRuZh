@@ -1,6 +1,6 @@
 [English](../en/README.md) · [Русский](../ru/README.md) · [中文](../zh/README.md)
 
-> Translation progress: the introduction, all 29 recommendations in chapter 1 and all 32 recommendations in chapter 2, and recommendations 1–4 of 19 in chapter 3 are available in English. Other chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction, all 29 recommendations in chapter 1 and all 32 recommendations in chapter 2, and recommendations 1–8 of 19 in chapter 3 are available in English. Other chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -233,4 +233,4 @@ The main text is split by chapter into 30 files in [book/](../../book/). Open a 
 - The salt example retains its contraindications and opposing evidence. The trial compared event rates in high-risk adults; it does not establish the same absolute benefit for everyone. Its salt substitute contained 25% potassium chloride, and retail products can differ. [Local prices](cost_examples.md) give package prices rather than a comparison with regular salt. The example is not an individual prescription; [chapter 2, recommendation 5](02_protect_your_health.md) explains the limitations.
 - [Recommendations 1–29 in chapter 1 — complete chapter](01_avoid_dying_early.md).
 - [Recommendations 1–32 in chapter 2 — complete chapter](02_protect_your_health.md).
-- [Recommendations 1–4 in chapter 3 — partial translation](03_use_your_energy_well.md).
+- [Recommendations 1–8 in chapter 3 — partial translation](03_use_your_energy_well.md).
