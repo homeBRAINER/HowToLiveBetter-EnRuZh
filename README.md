@@ -1,6 +1,6 @@
 [English](translations/en/README.md) · [Русский](translations/ru/README.md) · [中文](translations/zh/README.md)
 
-> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 includes the introduction and recommendations 1–8 of 13. The remaining chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 is also complete, with its introduction and all 13 recommendations. The remaining chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -234,4 +234,4 @@ The main text is split by chapter into 30 files in [book/](book/). Open a chapte
 - [Recommendations 1–29 in chapter 1 — complete chapter](translations/en/01_avoid_dying_early.md).
 - [Recommendations 1–32 in chapter 2 — complete chapter](translations/en/02_protect_your_health.md).
 - [Recommendations 1–19 in chapter 3 — complete chapter](translations/en/03_use_your_energy_well.md).
-- [Recommendations 1–8 in chapter 4 — partial translation](translations/en/04_use_your_time_well.md).
+- [Recommendations 1–13 in chapter 4 — complete chapter](translations/en/04_use_your_time_well.md).

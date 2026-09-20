@@ -1,6 +1,6 @@
 [← Contents](README.md) · [Русский](../ru/04_use_your_time_well.md) · [中文](../../book/04-不要浪费时间.md)
 
-> Partial translation: the introduction and recommendations 1–8 of 13. [Complete Chinese chapter](../../book/04-不要浪费时间.md). Editorial clarifications are labeled separately.
+> Complete chapter translation: the introduction and all 13 recommendations. [Chinese chapter](../../book/04-不要浪费时间.md). Editorial clarifications are labeled separately.
 
 # 4. Don’t waste time
 
@@ -93,3 +93,58 @@ This chapter counts time alone: how many hours you can free up each day, week, o
 - Notes: The research describes the role of external deadlines. This comparison did not directly test self-imposed deadlines or ways to limit working time, such as timeboxing or the Pomodoro technique. The advice is an extrapolation. Telling someone your deadline may add an external commitment, but the effectiveness of that step was not tested here either.
 
 > **Editorial clarification:** in [Study 2](https://www.researchgate.net/publication/232558487_Exploring_the_Planning_Fallacy_Why_People_Underestimate_Their_Task_Completion_Times), both percentages refer to the same 62 students. The weak correlation, r = 0.23, was between predictions and deadlines; r = 0.82 was between actual completion and deadlines. That passage does not establish a weak relationship between predictions and actual completion for this subgroup. Correlation does not mean deadlines almost entirely determine completion dates. Nor do these results show that self-imposed deadlines work like external ones, or that a work timer is equivalent to a due date.
+
+### 9. Compare the value of your working time with the cost of help at home
+<!-- 成本标签: 钱=多 时间=少 毅力=否 收益=大 口径=时间 -->
+- Cost: You need to pay for the service and work out beforehand whether the expense makes sense.
+- In plain language: In a Chinese survey, housework took an average of 1 hour 17 minutes a day across the population and 1 hour 59 minutes among people who did any. People who pay for services that free up time report greater life satisfaction. In an experiment, a time-saving purchase improved mood that day more than spending the same amount on a material purchase.
+- Benefit: A 2024 Chinese survey of 38,500 households and 107,000 people found that housework took an average of 1 hour 17 minutes a day across the population and 1 hour 59 minutes among those who did housework on the diary day. In samples totaling 6,271 people across four countries, spending on time-saving services was associated with greater life satisfaction. In a field experiment, a one-off time-saving purchase produced greater happiness that day than a material purchase.
+- Evidence grade: B
+- Sources: Whillans, A. V., Dunn, E. W., Smeets, P., Bekkers, R., & Norton, M. I. (2017). Buying time promotes happiness. Proceedings of the National Academy of Sciences. <https://doi.org/10.1073/pnas.1706541114> ; National Bureau of Statistics of China (2024). Third National Time Use Survey, Bulletin No. 2. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>
+- Notes: Calculate your hourly earnings as monthly take-home income ÷ actual hours worked that month. If help at home costs less per hour of your time freed and you will actually use that time for paid work or rest, outsourcing may make sense. This is a comparison method, not a predetermined answer: earnings and service prices differ. Whillans and colleagues measured well-being, not a benefit expressed in hours saved.
+
+> **Editorial clarification:** compare the full service cost with the time you personally free up, allowing for arranging and checking the work. Use one currency throughout—USD in the United States or EUR in euro-area countries. Average hourly earnings do not mean you can earn that amount in every free hour; the expense must also fit your budget. The [experiment](https://doi.org/10.1073/pnas.1706541114) tested mood after a purchase, not a guaranteed increase in earnings or lasting well-being. The Chinese statistics describe their own survey population and do not replace local data.
+
+### 10. Set a firm limit on short videos and aimless scrolling
+<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=大 口径=时间 -->
+- Cost: Considerable self-discipline: turn off notifications, remove apps, or set app time limits.
+- In plain language: In China’s 2024 survey, internet use averaged 5 hours 37 minutes a day across the population and 6 hours 3 minutes among people who went online. The 2018 survey reported an average of 2 hours 42 minutes, though the surveys differed in coverage. This is one of the book’s largest figures for daily time use. Free up one hour every day and you gain 365 hours a year.
+- Benefit: In China in 2024, daily internet use averaged 5 hours 37 minutes across the population and 6 hours 3 minutes among internet users; 92.9% used the internet. The 2018 survey reported an average of 2 hours 42 minutes. This is one of the largest time-use figures in this chapter. Cutting unnecessary use by one hour every day adds up to 365 hours a year, provided that time is genuinely freed.
+- Evidence grade: C
+- Sources: National Bureau of Statistics of China (2024). Third National Time Use Survey, Bulletin No. 2. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html> ; National Bureau of Statistics of China (2019). 2018 National Time Use Survey Bulletin. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html> ; TODO — verify average weekly time online and the number of short-video users in CNNIC’s 55th and 56th Statistical Reports on China’s Internet Development. Text could not be extracted from the official PDFs; the figures remain unverified.
+- Notes: Internet use includes work, study, and social contact; it is not all wasted time. Grade C reflects the evidence presented here: overall time-use statistics, rather than a study measuring how much time limits free up and what people do with it.
+
+> **Editorial clarification:** the figures from the two years are not fully comparable. The [2018 survey](https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/201901/t20190125_1768278.html) covered people age 15 and older in 11 regions, though Shanghai was excluded from the bulletin’s figures; the [2024 survey](https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html) expanded coverage and included children from age 6. Internet use was recorded alongside other activities, so these hours can overlap with work, study, and other tasks. They cannot simply be added to other time costs or treated as entirely available to reclaim. The 365-hour figure is conditional arithmetic for a non-leap year, not a measured effect of app limits. Comparisons with other entries do not establish a universal ranking of wasted time.
+
+### 11. Don’t watch television or rolling news; check the information you need at set times
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=大 口径=时间 -->
+- Cost: Moderate self-discipline. You may not hear some news immediately.
+- In plain language: People age 15 and older in the United States watch an average of 2.6 hours of television a day—half their leisure time. A Chinese survey reported 1 hour 40 minutes across the population and 3 hours 16 minutes among people ages 75–84. Set aside time for the information you need: dropping the rest of your viewing can free up a substantial part of the day.
+- Benefit: In the United States, people age 15 and older watched television for an average of 2.6 hours a day, half of their total 5.2 hours of leisure and sports time (2025). In China, television viewing averaged 1 hour 40 minutes a day across the population and 3 hours 16 minutes among people ages 75–84 (2018).
+- Evidence grade: C
+- Sources: U.S. Bureau of Labor Statistics (2026). American Time Use Survey — 2025 Results. <https://www.bls.gov/news.release/atus.nr0.htm> ; National Bureau of Statistics of China (2019). 2018 National Time Use Survey Bulletin. <https://www.stats.gov.cn/sj/zxfb/202302/t20230203_1900224.html>
+- Notes: These are overall time-use statistics. They do not show where the time goes after people cut back on television or news. Checking the information you need in scheduled sessions is advice based on the author’s experience.
+
+> **Editorial clarification:** the [U.S. figures](https://www.bls.gov/news.release/atus.nr0.htm) and [Chinese figures](https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/201901/t20190125_1768278.html) cover all television viewing, not just news. They are population averages that include people who watched none on the diary day. Your saving is the viewing time you personally give up, less the time spent checking selected news. BLS also warns that a federal government shutdown interrupted diary collection in 2025. The annual estimates use weighting to account for the gap, but its full effect cannot be quantified.
+
+### 12. Invest time in learning keyboard shortcuts and automation for the software you use regularly
+<!-- 成本标签: 钱=0 时间=中 毅力=些 收益=中 口径=时间 -->
+- Cost: A few hours to several dozen hours of initial learning. At first, you may be slower than with a mouse.
+- In plain language: Even people who have used Word for years often keep clicking toolbar buttons. Yet in an experiment, keyboard shortcuts were the fastest of three ways to issue a command. You learn once and save a little time with each repetition. The longer you do similar work, the more those savings can add up.
+- Benefit: Among 251 experienced Word users, most rarely used the more efficient keyboard shortcuts and preferred toolbar icons. A controlled experiment found keyboard shortcuts faster than either menus or toolbar icons. Time savings accumulate with the number of daily operations; people who do similar work over long periods stand to gain the most.
+- Evidence grade: B
+- Sources: Lane, D. M., Napier, H. A., Peres, S. C., & Sándor, A. (2005). Hidden costs of graphical user interfaces: Failure to make the transition from menus and icon toolbars to keyboard shortcuts. International Journal of Human-Computer Interaction. <https://doi.org/10.1207/s15327590ijhc1802_1>
+- Notes: The speed experiment had only 6 participants. The abstract does not report seconds saved per operation. Focus on commands you use more than 10 times a day; trying to learn every shortcut can become another waste of time.
+
+> **Editorial clarification:** the [full paper](https://www.ruf.rice.edu/~lane/papers/hidden_costs.pdf) compared copy, paste, open, and save commands outside a normal document-editing task. The result should not be assumed to apply to every program and action. The experiment did not test automation in general. “More than 10 times a day” is a practical rule of thumb, not a research-established break-even point; learning and setup time also count.
+
+### 13. Give commuting time priority when choosing where to live, and try to shorten each trip
+<!-- 成本标签: 钱=多 时间=中 毅力=否 收益=大 口径=时间 -->
+- Cost: Potentially high: higher rent or a smaller home for the same price, for example. Moving itself also takes time.
+- In plain language: In a German study, people with longer commutes reported lower well-being, and advantages in earnings or housing did not fully offset that difference. Shortening the trip by 30 minutes each way frees up 5 hours over a five-day working week.
+- Benefit: In China’s 2024 survey, all travel averaged 50 minutes a day across the population and 1 hour 2 minutes among people who traveled. German panel data showed a systematic association between longer commutes and lower subjective well-being, without full compensation through income or housing. A review found that satisfaction with the commute decreased as its duration increased across transport modes. Cutting 30 minutes from each one-way trip saves about 5 hours a week if you make the return journey on five days.
+- Evidence grade: B
+- Sources: Stutzer, A., & Frey, B. S. (2008). Stress that doesn't pay: The commuting paradox. Scandinavian Journal of Economics, 110(2), 339–366. <https://doi.org/10.1111/j.1467-9442.2008.00542.x> ; Chatterjee, K., et al. (2020). Commuting and wellbeing: A critical overview of the literature with implications for policy and future research. Transport Reviews, 40(1), 5–34. <https://doi.org/10.1080/01441647.2019.1649317> ; National Bureau of Statistics of China (2024). Third National Time Use Survey, Bulletin No. 2. <https://www.stats.gov.cn/sj/zxfb/202410/t20241031_1957216.html>
+- Notes: The findings conflict. Chatterjee and colleagues’ review notes that a consistent link between commuting and overall life satisfaction has not been established. People may generally offset the drawbacks of longer commutes with the benefits of better jobs or housing. The travel statistics include all trips, not just commuting. If your schedule allows you to travel outside rush hour, the same route may also take less time.
+
+> **Editorial clarification:** the [review](https://discovery.ucl.ac.uk/id/eprint/10083200/) distinguishes satisfaction with a journey from satisfaction with life overall. A decrease in the former does not establish the same change in the latter, so a shorter commute does not guarantee greater overall well-being. The 5-hour figure is a calculation for the stated schedule, not an average effect of moving. Before deciding, weigh commuting time against the full cost of housing and moving, working conditions, and your household’s needs.
