@@ -1,6 +1,6 @@
 [← Contents](README.md) · [Русский](../ru/03_use_your_energy_well.md) · [中文](../../book/03-不要浪费精力.md)
 
-> Partial translation: the introduction and recommendations 1–14 of 19. [Complete Chinese chapter](../../book/03-不要浪费精力.md). Editorial clarifications are labeled separately.
+> Partial translation: the introduction and recommendations 1–17 of 19. [Complete Chinese chapter](../../book/03-不要浪费精力.md). Editorial clarifications are labeled separately.
 
 # 3. Don’t waste energy
 
@@ -155,3 +155,36 @@ This chapter deals only with energy and time: the attention you have available e
 - Notes: This is one of the hardest energy-related recommendations to quantify: the review describes the direction of effects, not a numerical gain in energy. Switching activities is a practical suggestion. The research supports distraction over continued rumination, but does not compare which particular activity to choose.
 
 > **Editorial clarification:** thinking a problem through and looking for a solution are different from repeatedly dwelling on distress. Laboratory experiments found that distraction eased depressed mood; surveys did not show a consistent relationship between habitual distraction and depressive symptoms. The hands-on suggestion does not mean that any such activity treats depression. See the review above.
+
+### 15. Treat “things will definitely get worse” as a signal about how you feel, not as a fact
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=死亡率 -->
+- Cost: No spending.
+- In plain language: In a twin study with an average follow-up of 20 years, greater pessimism was associated with higher mortality. Each standard-deviation increase in pessimism was associated with about a 13% higher all-cause mortality hazard and a 20% higher cardiovascular mortality hazard. These are relative rates over time, not the same percentage increases in an individual’s probability of dying. Higher optimism scores did not show a corresponding protective association. The practical advice is to pay attention to persistent bleak expectations, rather than blame yourself for not being positive enough.
+- Benefit: An Australian study followed 2,978 twins over age 50 for an average of 20 years, recording 1,068 deaths. For each 1-standard-deviation increase in pessimism, the hazard ratio for all-cause mortality was 1.134 (95% CI 1.065–1.207; P = 8.85 × 10⁻⁵), and for cardiovascular mortality it was 1.196 (1.045–1.368; P = 0.0093). No statistically significant association with cancer mortality was found. Optimism scores were not significantly associated with mortality either.
+- Evidence grade: B
+- Sources: Whitfield JB, Zhu G, Landers JG, Martin NG (2020). Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective. Scientific Reports, 10, 12609. <https://doi.org/10.1038/s41598-020-69388-y>
+- Notes: This interpretation is disputed. The study was observational. One argument against reverse causation—illness making people more pessimistic—is that this might also be expected to produce an association with cancer deaths. That argument does not rule out reverse causation or residual confounding. No protective association for optimism was found in this sample; these results are no reason to force yourself to “think positive.” The practical point is not to treat a bleak expectation as an accurate prediction of the future.
+
+> **Editorial clarification:** a hazard ratio describes relative event rates over time, not the probability of dying during the entire follow-up. The study did not test whether changing your outlook extends life. A nonsignificant optimism association in one sample does not establish that optimism has no benefits. “Signal” in the heading is not a diagnosis: a pessimistic thought alone does not establish an illness. See the [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7387533/).
+
+### 16. Reduce contact that leaves you drained, and learn to decline requests you don’t want to take on
+<!-- 成本标签: 钱=0 时间=少 毅力=是 收益=中 口径=时间 -->
+- Cost: Some friction in the short term, and possibly the loss of some relationships. It takes considerable persistence.
+- In plain language: In one study, negative aspects of social contact were more strongly and consistently linked to psychological well-being than support was. A practical starting point is to reduce draining interactions before looking for more supportive contact.
+- Benefit: A survey of 120 widowed women aged 60–89 found that negative social interactions were more strongly and consistently associated with psychological well-being than positive interactions. In this sample, the unfavorable associations were stronger than the favorable associations with support.
+- Evidence grade: C
+- Sources: Rook (1984). The negative side of social interaction: Impact on psychological well-being. Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.46.5.1097>
+- Notes: This was a specific population and a cross-sectional study: participants were surveyed during one period. The outcome was well-being, not energy, so applying the finding to conserving energy is a practical inference. This recommendation provides no objective threshold for a “draining” relationship; you need to judge your own circumstances.
+
+> **Editorial clarification:** the study compared statistical associations, not the harm caused by one person against the benefit provided by another. It does not establish that ending a relationship improves well-being or supply a universal rule about whom to stop seeing. See the [abstract](https://pubmed.ncbi.nlm.nih.gov/6737206/).
+
+### 17. Set defaults for small everyday decisions, such as what to wear or eat
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=小 口径=时间 -->
+- Cost: No spending; setting up convenient defaults takes a little time at first.
+- In plain language: This recommendation has no strong experimental backing. The idea that making choices uses up a supply of willpower was not supported by the main analyses of two large studies involving more than two thousand and more than three thousand people: estimated effects were close to zero. Defaults for clothing and meals can still spare you a few minutes of deliberation. That is a practical time saving, not a demonstrated way to conserve willpower.
+- Benefit: The benefit cannot be quantified. Early experiments supported the idea that choice and self-control draw on a shared, limited resource, known as ego depletion. Two large preregistered multilaboratory studies did not confirm the effect in their main analyses: 23 laboratories and 2,141 participants, d = 0.04, 95% CI [−0.07, 0.15]; and 36 laboratories and 3,531 participants, d = 0.06, a nonsignificant result.
+- Evidence grade: C
+- Sources: Baumeister, Bratslavsky, Muraven & Tice (1998). Ego depletion: Is the active self a limited resource? Journal of Personality and Social Psychology. <https://doi.org/10.1037/0022-3514.74.5.1252> ; Hagger et al. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. Perspectives on Psychological Science. <https://doi.org/10.1177/1745691616652873> ; Vohs et al. (2021). A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect. Psychological Science. <https://doi.org/10.1177/0956797621989733>
+- Notes: The question is disputed. Popular accounts often present “decision fatigue” as settled fact, although these replication efforts substantially weakened the laboratory evidence for the limited-resource model. The case for this advice is more modest: it costs almost nothing and can reduce time spent making the same small choices. Don’t count on it to improve your judgment later in the day.
+
+> **Editorial clarification:** these studies tested the hypothesis using particular laboratory tasks. They were not exact repetitions of every early experiment, nor tests of every kind of mental fatigue. In Vohs’s study, an exploratory analysis without the planned exclusions found a small significant effect, d = 0.08; the preregistered main analysis found a nonsignificant d = 0.06. “Not supported in the main analyses” is therefore more accurate than “all effects disproved.” See [Hagger](https://pubmed.ncbi.nlm.nih.gov/27474142/) and [Vohs](https://www.psychologicalscience.org/journals/psychological-science/0956797621989733/).
