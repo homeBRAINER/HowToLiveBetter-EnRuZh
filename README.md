@@ -1,6 +1,6 @@
 [English](translations/en/README.md) · [Русский](translations/ru/README.md) · [中文](translations/zh/README.md)
 
-> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 is also complete, with its introduction and all 13 recommendations. Chapter 5 is complete too, with its introduction and all 31 recommendations. Chapter 6 is complete, with its introduction and all 16 recommendations. The remaining chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 is also complete, with its introduction and all 13 recommendations. Chapter 5 is complete too, with its introduction and all 31 recommendations. Chapter 6 is complete, with its introduction and all 16 recommendations. Chapter 7 has its introduction and entries 1–6 of 22 translated. The remaining chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -239,3 +239,5 @@ The main text is split by chapter into 30 files in [book/](book/). Open a chapte
 - [Recommendations 1–31 in chapter 5 — complete chapter](translations/en/05_avoid_wasting_money.md).
 
 - [Recommendations 1–16 in chapter 6 — complete chapter](translations/en/06_what_to_skip.md).
+
+- [Entries 1–6 in chapter 7 — partial translation](translations/en/07_when_money_is_tight.md).
