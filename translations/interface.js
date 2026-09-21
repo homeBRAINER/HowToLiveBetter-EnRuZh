@@ -46,9 +46,9 @@ const chapterTitles = {"1": {"en": "Avoid dying early", "ru": "Не умирай
     welcome.href = language === 'en' ? 'README.md' : 'translations/' + language + '/README.md';
     const notice = document.getElementById('translation-notice');
     notice.textContent = language === 'ru'
-      ? 'Перевод в работе: введение и интерфейс доступны на русском и английском. По ссылкам во введении доступны главы 1–7 целиком и пункты 1–4 главы 8. Карточки поиска пока на китайском; используй китайские слова и исходные сокращения. Законы и службы относятся к Китаю. Перевод не означает повторной проверки источников.'
+      ? 'Перевод в работе: введение и интерфейс доступны на русском и английском. По ссылкам во введении доступны главы 1–7 целиком и пункты 1–8 главы 8. Карточки поиска пока на китайском; используй китайские слова и исходные сокращения. Законы и службы относятся к Китаю. Перевод не означает повторной проверки источников.'
       : language === 'en'
-      ? 'Translation in progress: the introduction and interface are available in English and Russian. Chapters 1–7 and entries 1–4 of chapter 8 are available through the introduction. Search cards are still in Chinese; use Chinese terms or original abbreviations. Laws and services refer to China. Translation does not imply a new source review.'
+      ? 'Translation in progress: the introduction and interface are available in English and Russian. Chapters 1–7 and entries 1–8 of chapter 8 are available through the introduction. Search cards are still in Chinese; use Chinese terms or original abbreviations. Laws and services refer to China. Translation does not imply a new source review.'
       : '本分支提供中、英、俄三种语言入口。英文和俄文介绍及界面已开始翻译，章节正文目前保留中文原文。';
     translateShell();
     if (language !== 'zh') {
