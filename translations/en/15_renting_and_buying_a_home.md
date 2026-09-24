@@ -1,0 +1,25 @@
+[← Contents](README.md)
+
+# 15. Renting and buying a home
+
+The outcome here is money. When renting, a deposit or an agent can cost you more than expected. When buying, mortgage interest is a major expense, and the seller may know things about the property that you do not.
+
+> Translation in progress: items 1–2 of 8 are available. Read the remaining items [in Chinese](../../book/15-租房与买房.md).
+
+### 1. Put the deposit amount, return date and permitted deductions in the lease
+<!-- 成本标签: 钱=0 时间=少 毅力=些 收益=中 口径=金钱 -->
+- Cost: No purchase is needed. Allow about ten extra minutes when signing; the harder part may be raising the issue with the landlord.
+- In plain language: Before you sign, make sure the lease says how much you pay, when you get it back and what can be deducted. Ask for a written explanation and evidence for any deduction when you move out. In China, a landlord cannot make a deduction outside the agreed circumstances without a justified reason.
+- Benefit: Article 10 of China's Housing Rental Regulation, in force since 15 September 2025, requires the lease to set out the deposit amount, return time and circumstances for deductions. Outside those circumstances, the landlord may not deduct without a justified reason. Written terms and evidence of the home's condition make it easier to check a disputed calculation.
+- Evidence grade: A
+- Sources: [China's State Council, Housing Rental Regulation, Order No. 812 (2025; effective 2025-09-15), Article 10](https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm); [China's Ministry of Justice, official regulation database, Article 10](https://xzfg.moj.gov.cn/front/law/detail?LawID=1774); [New York State Homes and Community Renewal, security-deposit fact sheet (November 2025)](https://hcr.ny.gov/fact-sheet-9); [France's official public-service guide, rental deposits](https://www.service-public.fr/particuliers/vosdroits/F31269).
+- Notes: On moving-out day, photograph or film the home with the landlord if possible. Record the water, electricity and gas meter readings, walls and floors; keep the inventory, lease and proof of payment. In China, complain about an unjustified deduction to the local housing authority, or consider a small claim; see [chapter 8](08_protect_your_rights_and_property.md). Laws differ elsewhere. In New York State, a typical residential security deposit is capped at one month's rent, and the landlord generally has 14 days after you leave to return the balance and itemize any deductions. In France, the amount and return deadline depend on the tenancy and the entry and exit inspections; a deposit for an unfurnished primary residence is generally capped at one month's rent before charges. These are examples, not rules for every US state or European country.
+
+### 2. If a landlord cuts off utilities, changes the locks or threatens you to make you leave, call for help and keep evidence
+<!-- 成本标签: 钱=0 时间=少 毅力=否 收益=中 口径=金钱 -->
+- Cost: Calling the police requires no purchase. Act immediately if you face a threat.
+- In plain language: A landlord should not use threats, violence or other unlawful methods to force you to end the lease or leave. Cutting off utilities or changing locks can be signs of such pressure. If you are threatened or locked out, call the police, preserve messages and photos, and do not confront anyone physically.
+- Benefit: In China, Article 12 of the Housing Rental Regulation forbids a landlord to use violence, threats or other unlawful methods to force a tenant to end the lease or vacate. It also requires notice of a lawful termination and reasonable time to leave. A police incident record and other evidence may help if you later seek compensation, though a call alone does not guarantee it.
+- Evidence grade: A
+- Sources: [China's State Council, Housing Rental Regulation, Order No. 812 (2025; effective 2025-09-15), Article 12](https://www.gov.cn/zhengce/zhengceku/202507/content_7032956.htm); [China's Ministry of Justice, official regulation database, Article 12](https://xzfg.moj.gov.cn/front/law/detail?LawID=1774); [New York Attorney General, unlawful evictions](https://ag.ny.gov/resources/government-organizations/law-enforcement-guidance/unlawful-evictions); [UK government, harassment and illegal evictions in England](https://www.gov.uk/private-renting-evictions/harassment-and-illegal-evictions).
+- Notes: In China, also notify the local housing-rental authority. In New York, changing a lock without giving a lawful occupant a key and interrupting essential services can amount to unlawful eviction under state rules. In England, the government lists cutting off electricity and threatening to change locks as possible harassment; contact the police if violence or threats are involved or someone tries to remove you without the proper court process. These examples do not establish a single rule for the whole US or Europe. Record when services stopped, your contact with the utility provider and the condition of the lock. Do not try to force your way back in.
