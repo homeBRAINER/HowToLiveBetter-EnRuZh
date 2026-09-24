@@ -234,7 +234,7 @@ The main text is split by chapter into 30 files in [book/](book/). Open a chapte
 - [Recommendations 1–29 in chapter 1 — complete chapter](translations/en/01_avoid_dying_early.md).
 - [Recommendations 1–32 in chapter 2 — complete chapter](translations/en/02_protect_your_health.md).
 - [Recommendations 1–19 in chapter 3 — complete chapter](translations/en/03_use_your_energy_well.md).
-- [Recommendations 1–14 in chapter 4 — complete chapter](translations/en/04_use_your_time_well.md).
+- [Recommendations 1–13 in chapter 4 — complete chapter](translations/en/04_use_your_time_well.md).
 
 - [Recommendations 1–31 in chapter 5 — complete chapter](translations/en/05_avoid_wasting_money.md).
 
