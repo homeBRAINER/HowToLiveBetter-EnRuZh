@@ -1,6 +1,6 @@
 [English](../en/README.md) · [Русский](../ru/README.md) · [中文](../zh/README.md)
 
-> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 is also complete, with its introduction and all 13 recommendations. Chapter 5 is complete too, with its introduction and all 31 recommendations. Chapter 6 is complete, with its introduction and all 16 recommendations. Chapter 7 is complete, with its introduction and all 22 entries. Chapter 8 is complete, with its introduction and all 35 entries. Chapter 9 is complete, with its introduction and all 20 entries. Chapter 10 is complete, with its introduction and all 17 entries. Chapter 11 is complete, with its introduction and all 15 entries. Chapter 12 has its introduction and entries 1–18 of 19 translated. The remaining chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 is also complete, with its introduction and all 13 recommendations. Chapter 5 is complete too, with its introduction and all 31 recommendations. Chapter 6 is complete, with its introduction and all 16 recommendations. Chapter 7 is complete, with its introduction and all 22 entries. Chapter 8 is complete, with its introduction and all 35 entries. Chapter 9 is complete, with its introduction and all 20 entries. Chapter 10 is complete, with its introduction and all 17 entries. Chapter 11 is complete, with its introduction and all 15 entries. Chapter 12 is complete, with its introduction and all 19 entries. The remaining chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -250,4 +250,4 @@ The main text is split by chapter into 30 files in [book/](../../book/). Open a 
 
 - [Chapter 11 — complete translation](11_legal_risks_for_tech_workers.md).
 
-- [Entries 1–18 in chapter 12 — partial translation](12_starting_a_business.md).
+- [Entries 1–19 in chapter 12 — complete chapter](12_starting_a_business.md).
