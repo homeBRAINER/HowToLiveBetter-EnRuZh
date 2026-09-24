@@ -28,7 +28,7 @@ Your money and personal information are both at stake. Someone who gains control
 - In plain language: A screen lock protects data on the phone. A PIN on a removable SIM makes it harder for someone to move the card into another phone, receive your text codes and reset your accounts. Check both settings, especially if email or banking recovery still relies on that number.
 - Benefit: After a phone is lost, a screen lock and SIM PIN address different paths of access: the device itself and SMS delivered after moving its SIM. A SIM PIN does not stop every form of number takeover or account compromise, so also enable additional login checks.
 - Evidence grade: C
-- Sources: Practical advice without a direct study in the Chinese chapter; [CISA, locking mobile devices](https://www.cisa.gov/sites/default/files/2025-01/Secure-Our-World-Online-Safety-for-Older-Adults-Tip-Sheet.pdf).
+- Sources: Practical guidance; no separate outcome study supports a quantified effect. [CISA, locking mobile devices](https://www.cisa.gov/sites/default/files/2025-01/Secure-Our-World-Online-Safety-for-Older-Adults-Tip-Sheet.pdf).
 - Notes: Look for “SIM lock” in your phone settings. A default PIN may be 1234 or 0000, but confirm it with your carrier rather than guessing. Three wrong attempts usually require a PUK to unlock the SIM. Store your new PIN and the PUK safely. eSIMs and some devices use different procedures.
 
 ### 4. If your phone disappears, block the number and device, then secure accounts and payments
@@ -55,7 +55,7 @@ Your money and personal information are both at stake. Someone who gains control
 - In plain language: Open the security settings for email, payment and social accounts. Review phones and computers with active sessions and outside apps allowed to use the account. Remove devices you do not recognize and apps you no longer use. End unwanted sessions and change the password if you find evidence of an unfamiliar login.
 - Benefit: Session and permission lists can reveal access before someone sends messages or moves money. An attacker may remain in an account for a while before acting. No study supplies a reliable percentage reduction in losses from this particular habit.
 - Evidence grade: C
-- Sources: Practical advice without a direct study in the Chinese chapter.
+- Sources: Practical guidance; no separate outcome study supports a quantified effect.
 - Notes: The setting may be named “Devices”, “Sessions”, “Security” or “Connected apps”. If you find an unfamiliar device, sign out all sessions, change the password and check recovery methods. An empty list of unfamiliar devices is not proof the account was never accessed.
 
 ### 7. Decline app permissions that are unnecessary for the service you want
