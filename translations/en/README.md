@@ -1,6 +1,6 @@
 [English](../en/README.md) · [Русский](../ru/README.md) · [中文](../zh/README.md)
 
-> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 is also complete, with its introduction and all 13 recommendations. Chapter 5 is complete too, with its introduction and all 31 recommendations. Chapter 6 is complete, with its introduction and all 16 recommendations. Chapter 7 is complete, with its introduction and all 22 entries. Chapter 8 is complete, with its introduction and all 40 entries. Chapter 9 is complete, with its introduction and all 20 entries. Chapter 10 is complete, with its introduction and all 17 entries. Chapter 11 is complete, with its introduction and all 15 entries. Chapter 12 is complete, with its introduction and all 19 entries. Chapter 13 is complete, with its introduction and all 41 entries. Chapter 14 is complete, with its introduction and all 9 entries. Chapter 15 is complete, with its introduction and all eight items. Chapter 16 is complete, with its introduction and all nine items. Chapter 17 is complete in English and Russian, with its introduction and all seven items; later chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
+> Translation progress: the introduction, all 29 recommendations in chapter 1, all 32 in chapter 2, and all 19 in chapter 3 are available in English. Chapter 4 is also complete, with its introduction and all 13 recommendations. Chapter 5 is complete too, with its introduction and all 31 recommendations. Chapter 6 is complete, with its introduction and all 16 recommendations. Chapter 7 is complete, with its introduction and all 22 entries. Chapter 8 is complete, with its introduction and all 42 entries. Chapter 9 is complete, with its introduction and all 20 entries. Chapter 10 is complete, with its introduction and all 17 entries. Chapter 11 is complete, with its introduction and all 15 entries. Chapter 12 is complete, with its introduction and all 19 entries. Chapter 13 is complete, with its introduction and all 41 entries. Chapter 14 is complete, with its introduction and all 9 entries. Chapter 15 is complete, with its introduction and all eight items. Chapter 16 is complete, with its introduction and all nine items. Chapter 17 is complete in English and Russian, with its introduction and all seven items; later chapters and supplementary articles remain in Chinese. Translated chapters use local price examples in USD and EUR; some prices remain unverified and are marked accordingly. Laws and statistics retain their stated country and date. The illustration is in Chinese, with English alt text. Online search links lead to the Chinese site.
 
 <div align="center">
 
@@ -9,11 +9,11 @@
 # A guide to getting more out of life at less cost
 
 Longevity and disease prevention, accidents and first aid, saving and managing money, avoiding scams and legal trouble, support during unemployment, business risks, building platforms and meeting legal requirements, relationships, marriage and children, travel abroad and skills.<br>
-504 recommendations, each explaining what you spend, what you gain and how strong the evidence is. Evidence sources are journal articles and official documents; local price examples have separate retail and clinic sources.
+506 recommendations, each explaining what you spend, what you gain and how strong the evidence is. Evidence sources are journal articles and official documents; local price examples have separate retail and clinic sources.
 
 [![Online search](https://img.shields.io/badge/Online%20search-open-3451b2?style=flat-square)](https://eternity4719.github.io/HowToLiveBetter/)
-[![Recommendations](https://img.shields.io/badge/Recommendations-504-3451b2?style=flat-square)](#目录)
-[![Evidence grades](https://img.shields.io/badge/Evidence%20grades-A_330_%C2%B7_B_126_%C2%B7_C_48-3451b2?style=flat-square)](#证据分级)
+[![Recommendations](https://img.shields.io/badge/Recommendations-506-3451b2?style=flat-square)](#目录)
+[![Evidence grades](https://img.shields.io/badge/Evidence%20grades-A_331_%C2%B7_B_126_%C2%B7_C_49-3451b2?style=flat-square)](#证据分级)
 [![Primary sources](https://img.shields.io/badge/Primary%20sources-open-3451b2?style=flat-square)](../../docs/核实记录/)
 [![License](https://img.shields.io/badge/License-Unlicense-3451b2?style=flat-square)](../../LICENSE)
 
@@ -111,7 +111,7 @@ Every recommendation has an evidence grade:
 | B | Research support that is difficult to quantify, or evidence from a small sample or a single study. |
 | C | The author’s experience or a commonly held view, without directly supporting literature. |
 
-Of the 504 recommendations, 330 are grade A, 126 grade B and 48 grade C. Another 45 entries are marked as disputed, and 37 places carry TODO markers for verification. Disputed A- and B-grade entries are labeled “Disputed” and include opposing evidence. Citations supporting recommendations refer to primary sources: journal papers with DOI or PubMed links, or reports from official bodies such as WHO, CDC or the national statistics bureau. Local prices have separate retail and clinic sources; secondary price sources are labeled. Uncertain figures are marked “Needs verification.”
+Of the 506 recommendations, 331 are grade A, 126 grade B and 49 grade C. Another 45 entries are marked as disputed, and 37 places carry TODO markers for verification. Disputed A- and B-grade entries are labeled “Disputed” and include opposing evidence. Citations supporting recommendations refer to primary sources: journal papers with DOI or PubMed links, or reports from official bodies such as WHO, CDC or the national statistics bureau. Local prices have separate retail and clinic sources; secondary price sources are labeled. Uncertain figures are marked “Needs verification.”
 
 ## Benefit-to-cost categories
 
@@ -241,7 +241,7 @@ The main text is split by chapter into 30 files in [book/](../../book/). Open a 
 
 - [Chapter 7 — When money is tight](07_when_money_is_tight.md).
 
-- [Entries 1–40 in chapter 8 — complete chapter](08_protect_your_rights_and_property.md).
+- [Entries 1–42 in chapter 8 — complete chapter](08_protect_your_rights_and_property.md).
 
 - [Entries 1–20 in chapter 9 — complete chapter](09_legal_pitfalls.md).
 
